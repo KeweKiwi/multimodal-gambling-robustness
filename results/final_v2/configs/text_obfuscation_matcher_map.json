@@ -1,0 +1,163 @@
+{
+  "matcher_version": "final_v2",
+  "exact_terms": [
+    "slot",
+    "gacor",
+    "maxwin",
+    "jackpot",
+    "scatter",
+    "mahjong",
+    "pragmatic",
+    "togel",
+    "casino",
+    "freebet",
+    "deposit",
+    "depo",
+    "withdraw",
+    "bonus",
+    "rtp",
+    "bet",
+    "jp"
+  ],
+  "exact_only_terms": [
+    "depo",
+    "jackpot",
+    "jp"
+  ],
+  "approved_compound_map": {
+    "bet": [
+      "bets10",
+      "betting",
+      "betwoon",
+      "kralbet",
+      "ligobet",
+      "mlbbets",
+      "otobet",
+      "rainbet",
+      "rainbetcom",
+      "roobet",
+      "sbobet",
+      "slotbet200",
+      "slotbet400",
+      "slotbetreceh",
+      "slotfreebet",
+      "sportsbettingx",
+      "superbet",
+      "wongsobet"
+    ],
+    "bonus": [
+      "bedavabonus",
+      "bonusbuy",
+      "bonuslar",
+      "bonusslot",
+      "bonusu",
+      "denemebonusu"
+    ],
+    "casino": [
+      "casinoonline",
+      "maxwincasino",
+      "onlinecasino"
+    ],
+    "deposit": [
+      "depositpulsa",
+      "depositpulsatanpapotongan",
+      "minimaldeposit10ribu"
+    ],
+    "freebet": [
+      "slotfreebet"
+    ],
+    "gacor": [
+      "infoslotgacor",
+      "infoslotgacorhariini",
+      "mahjongwaysgacor",
+      "polaslotgacor",
+      "polaslotgacorhariini",
+      "rtpgacor",
+      "situsgacor",
+      "situsslotgacorhariini",
+      "slotgacor",
+      "slotgacorhariini",
+      "slotgacormodalreceh",
+      "slotgacorterbaru",
+      "tergacor",
+      "vegasgacor"
+    ],
+    "mahjong": [
+      "mahjongways"
+    ],
+    "maxwin": [
+      "gatesofolympusmaxwin",
+      "maxwinolympus",
+      "polaslotolympusmaxwin"
+    ],
+    "pragmatic": [
+      "pragmaticgacorhariini",
+      "pragmaticplay",
+      "pragmaticpplay",
+      "slotgacorpragmatic",
+      "slotpragmatic",
+      "trikjppragmatic"
+    ],
+    "rtp": [
+      "rtpgacor",
+      "rtplive",
+      "rtpslot",
+      "rtpslotgacorhariini",
+      "rtpterkini"
+    ],
+    "scatter": [
+      "polascattergacor",
+      "polascatterhitam",
+      "scattergacor",
+      "scatterhitam",
+      "scatterhitamgacor"
+    ],
+    "slot": [
+      "77luckyslot",
+      "bonusslot",
+      "buyspinslot",
+      "enakslot",
+      "luckylandslots",
+      "olympusslot",
+      "onlineslots",
+      "polaslotgacor",
+      "situsslotgacorhariini",
+      "slotbatik",
+      "slotbetreceh",
+      "slotdana",
+      "slotgacor",
+      "slotgacorhariini",
+      "slotgacorterbaru",
+      "slotgame",
+      "slotgopay",
+      "slotonline",
+      "slotonline24jam",
+      "slotovo",
+      "slotpulsa",
+      "slots",
+      "slotsgames",
+      "slotstreamer",
+      "slotwalletgame",
+      "trikslotolympus",
+      "upcomingslots",
+      "vipslot"
+    ],
+    "togel": [
+      "bandartogel",
+      "bandartogelonline",
+      "polisitogel",
+      "resulttogel",
+      "togelhongkong",
+      "togelonline",
+      "togelresult",
+      "togelsg",
+      "togelsgp",
+      "togelsydney"
+    ]
+  },
+  "overlap_resolution": "longest_match_first",
+  "text_transformation": "full_character_period_separator",
+  "separator": ".",
+  "test_used": false,
+  "status": "validated_and_locked"
+}

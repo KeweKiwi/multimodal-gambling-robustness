@@ -1,0 +1,15 @@
+{
+  "primary_descriptive_model": "learnable_weighted_logit_fusion",
+  "primary_model_clean_f1": 0.9628931020640579,
+  "primary_model_worst_joint_f1": 0.9461624562104918,
+  "highest_mean_joint_model": "raw_concatenation_fusion",
+  "highest_mean_joint_f1": 0.948513208886892,
+  "most_damaging_joint_condition": "J3: text obfuscation + blur r5 followed by pixelation 12.5%",
+  "most_difficult_platform": "TikTok",
+  "main_tiktok_failure_mode": "False negatives and low recall on positive gambling samples",
+  "weighted_mean_text_weight": 0.5247729659080506,
+  "weighted_mean_image_weight": 0.475227028131485,
+  "top_three_bootstrap_significant": false,
+  "primary_labels_modified": false,
+  "final_interpretation": "Weighted, Raw Concatenation, and Average Fusion form the top performance tier. Their differences were not statistically significant."
+}

@@ -1,0 +1,13 @@
+{
+  "condition_name": "full_character_period_separator",
+  "test_rows": 751,
+  "changed_captions": 314,
+  "coverage_percentage": 41.81,
+  "target_occurrences_changed": 4540,
+  "remaining_target_occurrences": 0,
+  "lexicon_size": 17,
+  "separator": ".",
+  "matcher_status": "validated_and_locked",
+  "manifest_sha256": "2be0a3c536eabfbad55d138b1043f73b7b90e395e31cf3b5a40d8438b1f8aa57",
+  "test_used_for_rule_selection": false
+}

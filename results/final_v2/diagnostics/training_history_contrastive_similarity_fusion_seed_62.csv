@@ -1,0 +1,10 @@
+epoch,train_loss,validation_loss,is_best_epoch,seed,model_name
+1,0.3380885126743631,0.13580863311352484,True,62,contrastive_similarity_fusion
+2,0.1185461333810133,0.12110105082689529,True,62,contrastive_similarity_fusion
+3,0.08645680330262417,0.11436404270994394,True,62,contrastive_similarity_fusion
+4,0.08113273024182686,0.09153485677117212,True,62,contrastive_similarity_fusion
+5,0.04854392276381256,0.09188718238912255,False,62,contrastive_similarity_fusion
+6,0.037089803304821076,0.1170662569888876,False,62,contrastive_similarity_fusion
+7,0.022050719039840253,0.12698787476516182,False,62,contrastive_similarity_fusion
+8,0.016822663976236857,0.10305286933028523,False,62,contrastive_similarity_fusion
+9,0.006844893094681366,0.09966727527251756,False,62,contrastive_similarity_fusion

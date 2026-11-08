@@ -1,0 +1,121 @@
+{
+  "status": "passed",
+  "scope": "read-only local source audit, no training or encoder inference",
+  "checks": {
+    "all_751_text_transformations_match_original_full_manifest": true,
+    "representative_image_transforms": [
+      {
+        "condition": "blur_r5_pixelation_p12_5",
+        "id": 10,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "blur_r5_pixelation_p12_5",
+        "id": 2494,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "blur_r5_pixelation_p12_5",
+        "id": 5024,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "gaussian_blur_r2",
+        "id": 10,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "gaussian_blur_r2",
+        "id": 2494,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "gaussian_blur_r2",
+        "id": 5024,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "gaussian_blur_r5",
+        "id": 10,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "gaussian_blur_r5",
+        "id": 2494,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "gaussian_blur_r5",
+        "id": 5024,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p12_5",
+        "id": 10,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p12_5",
+        "id": 2494,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p12_5",
+        "id": 5024,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p25",
+        "id": 10,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p25",
+        "id": 2494,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p25",
+        "id": 5024,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p50",
+        "id": 10,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p50",
+        "id": 2494,
+        "png_hash_matches": true,
+        "pixels_match": true
+      },
+      {
+        "condition": "pixelation_p50",
+        "id": 5024,
+        "png_hash_matches": true,
+        "pixels_match": true
+      }
+    ],
+    "original_locked_integrity_hashes_match": 9,
+    "existing_clean_and_perturbed_embedding_files_audited": 13,
+    "extracted_definitions_match_original_source": true,
+    "all_13_arrays_match_independent_historical_report_digests": true
+  }
+}

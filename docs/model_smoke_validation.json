@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "instantiate models and run two zero-feature inputs; no training, encoder downloads or checkpoint loading",
+  "parameter_counts": {
+    "TextOnlyMLP": 262657,
+    "ImageOnlyMLP": 295425,
+    "LearnableWeightedLogitFusion": 2,
+    "RawConcatenationFusion": 557569,
+    "ProjectionFusion": 1377793,
+    "ContrastiveSimilarityFusion": 1115137
+  }
+}

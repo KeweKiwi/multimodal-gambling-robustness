@@ -1,0 +1,17 @@
+{
+  "total_embeddings": 6,
+  "all_shapes_valid": true,
+  "all_values_finite": true,
+  "all_mean_norms_near_one": true,
+  "text_embedding_dimension": 1024,
+  "image_embedding_dimension": 1152,
+  "encoder_status": "frozen",
+  "embeddings": {
+    "train_text": "16d2704ba50e6de8cb1887a530e0117cf219d88d59fb198755e22353b1fa5c13",
+    "validation_text": "994b235740f26f2a603a22f74de16e9f46cdba43781e7fb24f62f5282a10829d",
+    "test_text": "e24454c4f9aae90ffb55db1517cc48b767cf453f656d9ce8899e039a7ff8a001",
+    "train_image": "b619101e1deeeede11528197c39f201fa4be3229ea737bed827935e39d8229c4",
+    "validation_image": "44f22d67f15fa2d79e8af8e772792aca67e2f27dd7d187be09bae60c01aac860",
+    "test_image": "5c495a66b21f622023f2feb2c4d7b32072d21379e1ed080ac8a6d4b3fc3b5fd9"
+  }
+}

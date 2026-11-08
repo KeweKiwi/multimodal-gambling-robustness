@@ -1,0 +1,2 @@
+model_name,number_of_seeds,mean_best_epoch,mean_selected_threshold,mean_validation_f1,std_validation_f1,minimum_validation_f1,maximum_validation_f1,mean_validation_pr_auc,mean_validation_brier_score,mean_logit_scale,std_logit_scale,mean_temperature
+contrastive_similarity_fusion,5,3.2,0.522,0.9634662142071555,0.005001200873487426,0.9569230769230769,0.9704510108864697,0.9939338173825918,0.026507081614896216,14.324386948772414,0.07596968318742923,0.06981257759220884

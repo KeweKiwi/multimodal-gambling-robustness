@@ -1,0 +1,752 @@
+id,platform,label,image_path,text_changed,matched_terms,matched_terms_json,match_types,target_occurrence_count,remaining_target_count
+10,TikTok,0.0,image/image_10.jpg,True,jackpot,"[""jackpot""]",exact,2,0
+24,TikTok,0.0,image/image_24.jpg,False,,[],,0,0
+39,TikTok,0.0,image/image_39.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+47,TikTok,0.0,image/image_47.jpg,False,,[],,0,0
+60,TikTok,0.0,image/image_60.jpg,True,scatter,"[""scatter""]",exact,2,0
+68,TikTok,0.0,image/image_68.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+71,TikTok,0.0,image/image_71.jpg,False,,[],,0,0
+76,TikTok,0.0,image/image_76.jpg,False,,[],,0,0
+79,TikTok,0.0,image/image_79.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+83,TikTok,0.0,image/image_83.jpg,False,,[],,0,0
+84,TikTok,0.0,image/image_84.jpg,True,jackpot,"[""jackpot""]",exact,2,0
+85,TikTok,0.0,image/image_85.jpg,False,,[],,0,0
+97,TikTok,0.0,image/image_97.jpg,False,,[],,0,0
+106,TikTok,0.0,image/image_106.jpg,False,,[],,0,0
+109,TikTok,0.0,image/image_109.jpg,False,,[],,0,0
+121,TikTok,0.0,image/image_121.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+129,TikTok,0.0,image/image_129.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+131,TikTok,0.0,image/image_131.jpg,False,,[],,0,0
+142,TikTok,0.0,image/image_142.jpg,False,,[],,0,0
+144,TikTok,0.0,image/image_144.jpg,False,,[],,0,0
+149,TikTok,0.0,image/image_149.jpg,False,,[],,0,0
+160,TikTok,0.0,image/image_160.jpg,False,,[],,0,0
+178,TikTok,0.0,image/image_178.jpg,False,,[],,0,0
+183,TikTok,0.0,image/image_183.jpg,False,,[],,0,0
+186,TikTok,0.0,image/image_186.jpg,False,,[],,0,0
+193,TikTok,0.0,image/image_193.jpg,True,jackpot,"[""jackpot""]",exact,2,0
+194,TikTok,0.0,image/image_194.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+195,TikTok,0.0,image/image_195.jpg,False,,[],,0,0
+197,TikTok,0.0,image/image_197.jpg,False,,[],,0,0
+203,TikTok,0.0,image/image_203.jpg,True,jackpot,"[""jackpot""]",exact,2,0
+207,TikTok,0.0,image/image_207.jpg,False,,[],,0,0
+208,TikTok,0.0,image/image_208.jpg,True,gacor,"[""gacor""]",exact,1,0
+212,TikTok,0.0,image/image_212.jpg,False,,[],,0,0
+223,TikTok,0.0,image/image_223.jpg,False,,[],,0,0
+232,TikTok,0.0,image/image_232.jpg,False,,[],,0,0
+233,TikTok,0.0,image/image_233.jpg,False,,[],,0,0
+243,TikTok,0.0,image/image_243.jpg,False,,[],,0,0
+253,TikTok,0.0,image/image_253.jpg,False,,[],,0,0
+266,TikTok,0.0,image/image_266.jpg,False,,[],,0,0
+278,TikTok,0.0,image/image_278.jpg,False,,[],,0,0
+280,TikTok,0.0,image/image_280.jpg,False,,[],,0,0
+282,TikTok,0.0,image/image_282.jpg,False,,[],,0,0
+305,TikTok,0.0,image/image_305.jpg,True,gacor,"[""gacor""]",exact,1,0
+316,TikTok,0.0,image/image_316.jpg,False,,[],,0,0
+324,Facebook,0.0,image/image_324.jpg,True,depo,"[""depo""]",exact,1,0
+329,Facebook,0.0,image/image_329.jpg,False,,[],,0,0
+333,Facebook,0.0,image/image_333.jpg,False,,[],,0,0
+334,Facebook,0.0,image/image_334.jpg,False,,[],,0,0
+337,Facebook,0.0,image/image_337.jpg,False,,[],,0,0
+344,Facebook,0.0,image/image_344.jpg,False,,[],,0,0
+347,Facebook,0.0,image/image_347.jpg,False,,[],,0,0
+351,Facebook,0.0,image/image_351.jpg,False,,[],,0,0
+362,Facebook,0.0,image/image_362.jpg,False,,[],,0,0
+366,Facebook,0.0,image/image_366.jpg,False,,[],,0,0
+383,Facebook,0.0,image/image_383.jpg,False,,[],,0,0
+387,Facebook,0.0,image/image_387.jpg,False,,[],,0,0
+393,Facebook,0.0,image/image_393.jpg,False,,[],,0,0
+396,Facebook,0.0,image/image_396.jpg,True,slot,"[""slot""]",exact,1,0
+397,Facebook,0.0,image/image_397.jpg,False,,[],,0,0
+406,Facebook,0.0,image/image_406.jpg,True,slot,"[""slot""]",exact,2,0
+408,Facebook,0.0,image/image_408.jpg,False,,[],,0,0
+420,Facebook,0.0,image/image_420.jpg,False,,[],,0,0
+429,Facebook,0.0,image/image_429.jpg,False,,[],,0,0
+430,Facebook,0.0,image/image_430.jpg,False,,[],,0,0
+434,Facebook,0.0,image/image_434.jpg,False,,[],,0,0
+437,Facebook,0.0,image/image_437.jpg,False,,[],,0,0
+443,Facebook,0.0,image/image_443.jpg,False,,[],,0,0
+444,Facebook,0.0,image/image_444.jpg,False,,[],,0,0
+446,Facebook,0.0,image/image_446.jpg,False,,[],,0,0
+458,Facebook,0.0,image/image_458.jpg,False,,[],,0,0
+462,Facebook,0.0,image/image_462.jpg,False,,[],,0,0
+476,Facebook,0.0,image/image_476.jpg,False,,[],,0,0
+487,Facebook,0.0,image/image_487.jpg,False,,[],,0,0
+499,Facebook,0.0,image/image_499.jpg,False,,[],,0,0
+513,Facebook,0.0,image/image_513.jpg,False,,[],,0,0
+526,Facebook,0.0,image/image_526.jpg,True,gacor,"[""gacor""]",exact,1,0
+531,Facebook,0.0,image/image_531.jpg,False,,[],,0,0
+547,Facebook,0.0,image/image_547.jpg,False,,[],,0,0
+553,Facebook,0.0,image/image_553.jpg,False,,[],,0,0
+570,Facebook,0.0,image/image_570.jpg,False,,[],,0,0
+583,Facebook,0.0,image/image_583.jpg,False,,[],,0,0
+587,Facebook,0.0,image/image_587.jpg,False,,[],,0,0
+591,Facebook,0.0,image/image_591.jpg,False,,[],,0,0
+594,Facebook,0.0,image/image_594.jpg,False,,[],,0,0
+598,Facebook,0.0,image/image_598.jpg,False,,[],,0,0
+603,Facebook,0.0,image/image_603.jpg,False,,[],,0,0
+623,Facebook,0.0,image/image_623.jpg,False,,[],,0,0
+625,Facebook,0.0,image/image_625.jpg,False,,[],,0,0
+628,Facebook,0.0,image/image_628.jpg,False,,[],,0,0
+641,Facebook,0.0,image/image_641.jpg,False,,[],,0,0
+648,Facebook,0.0,image/image_648.jpg,False,,[],,0,0
+655,Facebook,0.0,image/image_655.jpg,False,,[],,0,0
+667,Facebook,0.0,image/image_667.jpg,False,,[],,0,0
+668,Facebook,0.0,image/image_668.jpg,False,,[],,0,0
+669,Facebook,0.0,image/image_669.jpg,False,,[],,0,0
+671,Facebook,0.0,image/image_671.jpg,False,,[],,0,0
+673,Facebook,0.0,image/image_673.jpg,False,,[],,0,0
+675,Facebook,0.0,image/image_675.jpg,False,,[],,0,0
+676,Facebook,0.0,image/image_676.jpg,False,,[],,0,0
+687,Facebook,0.0,image/image_687.jpg,False,,[],,0,0
+694,Facebook,0.0,image/image_694.jpg,False,,[],,0,0
+697,Facebook,0.0,image/image_697.jpg,False,,[],,0,0
+716,Facebook,0.0,image/image_716.jpg,False,,[],,0,0
+721,Facebook,0.0,image/image_721.jpg,False,,[],,0,0
+723,Facebook,0.0,image/image_723.jpg,False,,[],,0,0
+725,Facebook,0.0,image/image_725.jpg,False,,[],,0,0
+727,Facebook,0.0,image/image_727.jpg,False,,[],,0,0
+730,Facebook,0.0,image/image_730.jpg,False,,[],,0,0
+737,Facebook,0.0,image/image_737.jpg,False,,[],,0,0
+744,Facebook,0.0,image/image_744.jpg,True,togel,"[""togel""]",exact,1,0
+745,Facebook,0.0,image/image_745.jpg,False,,[],,0,0
+761,Facebook,0.0,image/image_761.jpg,False,,[],,0,0
+775,Facebook,0.0,image/image_775.jpg,False,,[],,0,0
+778,Facebook,0.0,image/image_778.jpg,False,,[],,0,0
+789,Facebook,0.0,image/image_789.jpg,False,,[],,0,0
+798,Facebook,0.0,image/image_798.jpg,False,,[],,0,0
+804,Facebook,0.0,image/image_804.jpg,False,,[],,0,0
+818,X,0.0,image/image_818.jpg,False,,[],,0,0
+820,X,0.0,image/image_820.jpg,False,,[],,0,0
+825,X,0.0,image/image_825.jpg,False,,[],,0,0
+837,X,0.0,image/image_837.jpg,False,,[],,0,0
+839,X,0.0,image/image_839.jpg,False,,[],,0,0
+843,X,0.0,image/image_843.jpg,False,,[],,0,0
+844,X,0.0,image/image_844.jpg,False,,[],,0,0
+848,X,0.0,image/image_848.jpg,False,,[],,0,0
+875,X,0.0,image/image_875.jpg,False,,[],,0,0
+881,X,0.0,image/image_881.jpg,False,,[],,0,0
+884,X,0.0,image/image_884.jpg,False,,[],,0,0
+886,X,0.0,image/image_886.jpg,False,,[],,0,0
+889,X,0.0,image/image_889.jpg,False,,[],,0,0
+893,X,0.0,image/image_893.jpg,False,,[],,0,0
+918,X,0.0,image/image_918.jpg,False,,[],,0,0
+931,X,0.0,image/image_931.jpg,False,,[],,0,0
+944,X,0.0,image/image_944.jpg,False,,[],,0,0
+953,X,0.0,image/image_953.jpg,False,,[],,0,0
+962,X,0.0,image/image_962.jpg,False,,[],,0,0
+971,X,0.0,image/image_971.jpg,False,,[],,0,0
+976,X,0.0,image/image_976.jpg,False,,[],,0,0
+978,X,0.0,image/image_978.jpg,False,,[],,0,0
+1000,X,0.0,image/image_1000.jpg,False,,[],,0,0
+1003,X,0.0,image/image_1003.jpg,False,,[],,0,0
+1012,X,0.0,image/image_1012.jpg,False,,[],,0,0
+1013,X,0.0,image/image_1013.jpg,False,,[],,0,0
+1017,X,0.0,image/image_1017.jpg,False,,[],,0,0
+1037,X,0.0,image/image_1037.jpg,False,,[],,0,0
+1043,X,0.0,image/image_1043.jpg,False,,[],,0,0
+1056,X,0.0,image/image_1056.jpg,False,,[],,0,0
+1064,X,0.0,image/image_1064.jpg,False,,[],,0,0
+1068,X,0.0,image/image_1068.jpg,False,,[],,0,0
+1071,X,0.0,image/image_1071.jpg,False,,[],,0,0
+1073,X,0.0,image/image_1073.jpg,False,,[],,0,0
+1090,X,0.0,image/image_1090.jpg,False,,[],,0,0
+1093,X,0.0,image/image_1093.jpg,False,,[],,0,0
+1095,X,0.0,image/image_1095.jpg,False,,[],,0,0
+1102,X,0.0,image/image_1102.jpg,False,,[],,0,0
+1105,X,0.0,image/image_1105.jpg,False,,[],,0,0
+1111,X,0.0,image/image_1111.jpg,False,,[],,0,0
+1116,X,0.0,image/image_1116.jpg,False,,[],,0,0
+1120,X,0.0,image/image_1120.jpg,False,,[],,0,0
+1129,X,0.0,image/image_1129.jpg,False,,[],,0,0
+1135,X,0.0,image/image_1135.jpg,False,,[],,0,0
+1140,X,0.0,image/image_1140.jpg,False,,[],,0,0
+1156,X,0.0,image/image_1156.jpg,False,,[],,0,0
+1158,X,0.0,image/image_1158.jpg,False,,[],,0,0
+1160,X,0.0,image/image_1160.jpg,False,,[],,0,0
+1177,X,0.0,image/image_1177.jpg,False,,[],,0,0
+1185,X,0.0,image/image_1185.jpg,False,,[],,0,0
+1193,X,0.0,image/image_1193.jpg,False,,[],,0,0
+1204,TikTok,0.0,image/image_1204.jpg,False,,[],,0,0
+1213,TikTok,0.0,image/image_1213.jpg,True,slot,"[""slot""]",exact,1,0
+1217,TikTok,0.0,image/image_1217.jpg,False,,[],,0,0
+1218,TikTok,0.0,image/image_1218.jpg,False,,[],,0,0
+1222,TikTok,0.0,image/image_1222.jpg,False,,[],,0,0
+1231,TikTok,0.0,image/image_1231.jpg,False,,[],,0,0
+1237,TikTok,0.0,image/image_1237.jpg,True,depo,"[""depo""]",exact,1,0
+1241,TikTok,0.0,image/image_1241.jpg,False,,[],,0,0
+1245,TikTok,0.0,image/image_1245.jpg,False,,[],,0,0
+1249,TikTok,0.0,image/image_1249.jpg,False,,[],,0,0
+1269,TikTok,0.0,image/image_1269.jpg,True,slot,"[""slot""]",exact,1,0
+1273,TikTok,0.0,image/image_1273.jpg,False,,[],,0,0
+1282,TikTok,0.0,image/image_1282.jpg,False,,[],,0,0
+1288,TikTok,0.0,image/image_1288.jpg,False,,[],,0,0
+1297,TikTok,0.0,image/image_1297.jpg,False,,[],,0,0
+1298,TikTok,0.0,image/image_1298.jpg,False,,[],,0,0
+1302,TikTok,0.0,image/image_1302.jpg,False,,[],,0,0
+1306,TikTok,0.0,image/image_1306.jpg,False,,[],,0,0
+1323,TikTok,0.0,image/image_1323.jpg,False,,[],,0,0
+1333,TikTok,0.0,image/image_1333.jpg,False,,[],,0,0
+1338,TikTok,0.0,image/image_1338.jpg,False,,[],,0,0
+1346,TikTok,0.0,image/image_1346.jpg,False,,[],,0,0
+1357,TikTok,0.0,image/image_1357.jpg,False,,[],,0,0
+1374,TikTok,0.0,image/image_1374.jpg,False,,[],,0,0
+1388,TikTok,0.0,image/image_1388.jpg,False,,[],,0,0
+1395,TikTok,0.0,image/image_1395.jpg,False,,[],,0,0
+1399,TikTok,0.0,image/image_1399.jpg,False,,[],,0,0
+1401,TikTok,0.0,image/image_1401.jpg,True,mahjong,"[""mahjong""]",exact,2,0
+1402,TikTok,0.0,image/image_1402.jpg,False,,[],,0,0
+1411,TikTok,0.0,image/image_1411.jpg,False,,[],,0,0
+1417,TikTok,0.0,image/image_1417.jpg,False,,[],,0,0
+1430,TikTok,0.0,image/image_1430.jpg,False,,[],,0,0
+1437,TikTok,0.0,image/image_1437.jpg,False,,[],,0,0
+1444,TikTok,0.0,image/image_1444.jpg,False,,[],,0,0
+1449,TikTok,0.0,image/image_1449.jpg,False,,[],,0,0
+1463,TikTok,0.0,image/image_1463.jpg,False,,[],,0,0
+1464,TikTok,0.0,image/image_1464.jpg,False,,[],,0,0
+1478,TikTok,0.0,image/image_1478.jpg,False,,[],,0,0
+1479,TikTok,0.0,image/image_1479.jpg,False,,[],,0,0
+1482,TikTok,0.0,image/image_1482.jpg,False,,[],,0,0
+1489,TikTok,0.0,image/image_1489.jpg,False,,[],,0,0
+1496,TikTok,0.0,image/image_1496.jpg,False,,[],,0,0
+1519,TikTok,0.0,image/image_1519.jpg,False,,[],,0,0
+1525,TikTok,0.0,image/image_1525.jpg,False,,[],,0,0
+1533,TikTok,0.0,image/image_1533.jpg,True,slot,"[""slot""]",exact,1,0
+1534,TikTok,0.0,image/image_1534.jpg,False,,[],,0,0
+1558,TikTok,0.0,image/image_1558.jpg,True,depo,"[""depo""]",exact,1,0
+1561,TikTok,0.0,image/image_1561.jpg,False,,[],,0,0
+1571,TikTok,0.0,image/image_1571.jpg,True,slot,"[""slot""]",exact,1,0
+1577,TikTok,0.0,image/image_1577.jpg,False,,[],,0,0
+1582,TikTok,0.0,image/image_1582.jpg,False,,[],,0,0
+1585,TikTok,0.0,image/image_1585.jpg,False,,[],,0,0
+1595,TikTok,0.0,image/image_1595.jpg,False,,[],,0,0
+1613,TikTok,0.0,image/image_1613.jpg,False,,[],,0,0
+1628,TikTok,0.0,image/image_1628.jpg,False,,[],,0,0
+1630,TikTok,0.0,image/image_1630.jpg,False,,[],,0,0
+1633,TikTok,0.0,image/image_1633.jpg,False,,[],,0,0
+1648,TikTok,0.0,image/image_1648.jpg,False,,[],,0,0
+1653,TikTok,0.0,image/image_1653.jpg,False,,[],,0,0
+1654,TikTok,0.0,image/image_1654.jpg,False,,[],,0,0
+1656,TikTok,0.0,image/image_1656.jpg,False,,[],,0,0
+1667,TikTok,0.0,image/image_1667.jpg,False,,[],,0,0
+1700,TikTok,0.0,image/image_1700.jpg,False,,[],,0,0
+1703,TikTok,0.0,image/image_1703.jpg,False,,[],,0,0
+1726,TikTok,0.0,image/image_1726.jpg,False,,[],,0,0
+1750,TikTok,0.0,image/image_1750.jpg,False,,[],,0,0
+1751,TikTok,0.0,image/image_1751.jpg,False,,[],,0,0
+1752,TikTok,0.0,image/image_1752.jpg,False,,[],,0,0
+1765,TikTok,0.0,image/image_1765.jpg,False,,[],,0,0
+1783,TikTok,0.0,image/image_1783.jpg,False,,[],,0,0
+1788,TikTok,0.0,image/image_1788.jpg,False,,[],,0,0
+1791,TikTok,0.0,image/image_1791.jpg,False,,[],,0,0
+1796,TikTok,0.0,image/image_1796.jpg,False,,[],,0,0
+1806,TikTok,0.0,image/image_1806.jpg,False,,[],,0,0
+1815,TikTok,0.0,image/image_1815.jpg,False,,[],,0,0
+1819,TikTok,0.0,image/image_1819.jpg,False,,[],,0,0
+1820,TikTok,0.0,image/image_1820.jpg,False,,[],,0,0
+1829,TikTok,0.0,image/image_1829.jpg,False,,[],,0,0
+1832,TikTok,0.0,image/image_1832.jpg,False,,[],,0,0
+1838,TikTok,0.0,image/image_1838.jpg,False,,[],,0,0
+1839,TikTok,0.0,image/image_1839.jpg,False,,[],,0,0
+1843,TikTok,0.0,image/image_1843.jpg,False,,[],,0,0
+1848,TikTok,0.0,image/image_1848.jpg,False,,[],,0,0
+1850,TikTok,0.0,image/image_1850.jpg,False,,[],,0,0
+1856,TikTok,0.0,image/image_1856.jpg,False,,[],,0,0
+1857,TikTok,0.0,image/image_1857.jpg,False,,[],,0,0
+1862,TikTok,0.0,image/image_1862.jpg,False,,[],,0,0
+1864,TikTok,0.0,image/image_1864.jpg,False,,[],,0,0
+1866,TikTok,0.0,image/image_1866.jpg,False,,[],,0,0
+1871,TikTok,0.0,image/image_1871.jpg,False,,[],,0,0
+1878,TikTok,0.0,image/image_1878.jpg,False,,[],,0,0
+1887,TikTok,0.0,image/image_1887.jpg,False,,[],,0,0
+1894,TikTok,0.0,image/image_1894.jpg,False,,[],,0,0
+1895,TikTok,0.0,image/image_1895.jpg,False,,[],,0,0
+1897,TikTok,0.0,image/image_1897.jpg,False,,[],,0,0
+1909,TikTok,0.0,image/image_1909.jpg,False,,[],,0,0
+1911,TikTok,0.0,image/image_1911.jpg,False,,[],,0,0
+1915,TikTok,0.0,image/image_1915.jpg,False,,[],,0,0
+1922,TikTok,0.0,image/image_1922.jpg,False,,[],,0,0
+1923,TikTok,0.0,image/image_1923.jpg,False,,[],,0,0
+1927,TikTok,0.0,image/image_1927.jpg,False,,[],,0,0
+1929,TikTok,0.0,image/image_1929.jpg,False,,[],,0,0
+1932,TikTok,0.0,image/image_1932.jpg,False,,[],,0,0
+1941,TikTok,0.0,image/image_1941.jpg,False,,[],,0,0
+1948,TikTok,0.0,image/image_1948.jpg,False,,[],,0,0
+1950,TikTok,0.0,image/image_1950.jpg,False,,[],,0,0
+1952,TikTok,0.0,image/image_1952.jpg,False,,[],,0,0
+1956,TikTok,0.0,image/image_1956.jpg,False,,[],,0,0
+1962,TikTok,0.0,image/image_1962.jpg,False,,[],,0,0
+1971,TikTok,0.0,image/image_1971.jpg,False,,[],,0,0
+1977,TikTok,0.0,image/image_1977.jpg,False,,[],,0,0
+1981,TikTok,0.0,image/image_1981.jpg,False,,[],,0,0
+1982,TikTok,0.0,image/image_1982.jpg,False,,[],,0,0
+1985,TikTok,0.0,image/image_1985.jpg,False,,[],,0,0
+1988,TikTok,0.0,image/image_1988.jpg,False,,[],,0,0
+1990,TikTok,0.0,image/image_1990.jpg,False,,[],,0,0
+1992,TikTok,0.0,image/image_1992.jpg,False,,[],,0,0
+1996,TikTok,0.0,image/image_1996.jpg,False,,[],,0,0
+2001,TikTok,0.0,image/image_2001.jpg,False,,[],,0,0
+2011,TikTok,0.0,image/image_2011.jpg,False,,[],,0,0
+2015,TikTok,0.0,image/image_2015.jpg,False,,[],,0,0
+2028,TikTok,0.0,image/image_2028.jpg,False,,[],,0,0
+2030,TikTok,0.0,image/image_2030.jpg,False,,[],,0,0
+2033,TikTok,0.0,image/image_2033.jpg,False,,[],,0,0
+2041,TikTok,0.0,image/image_2041.jpg,False,,[],,0,0
+2042,TikTok,0.0,image/image_2042.jpg,False,,[],,0,0
+2043,TikTok,0.0,image/image_2043.jpg,False,,[],,0,0
+2044,TikTok,0.0,image/image_2044.jpg,False,,[],,0,0
+2056,TikTok,0.0,image/image_2056.jpg,False,,[],,0,0
+2063,TikTok,0.0,image/image_2063.jpg,False,,[],,0,0
+2065,TikTok,0.0,image/image_2065.jpg,False,,[],,0,0
+2066,TikTok,0.0,image/image_2066.jpg,False,,[],,0,0
+2069,TikTok,0.0,image/image_2069.jpg,False,,[],,0,0
+2071,TikTok,0.0,image/image_2071.jpg,False,,[],,0,0
+2076,TikTok,0.0,image/image_2076.jpg,False,,[],,0,0
+2085,TikTok,0.0,image/image_2085.jpg,False,,[],,0,0
+2089,TikTok,0.0,image/image_2089.jpg,False,,[],,0,0
+2097,TikTok,0.0,image/image_2097.jpg,False,,[],,0,0
+2109,TikTok,0.0,image/image_2109.jpg,False,,[],,0,0
+2111,TikTok,0.0,image/image_2111.jpg,False,,[],,0,0
+2113,TikTok,0.0,image/image_2113.jpg,False,,[],,0,0
+2115,TikTok,0.0,image/image_2115.jpg,False,,[],,0,0
+2130,X,0.0,image/image_2130.jpg,False,,[],,0,0
+2131,X,0.0,image/image_2131.jpg,False,,[],,0,0
+2132,X,0.0,image/image_2132.jpg,False,,[],,0,0
+2135,X,0.0,image/image_2135.jpg,False,,[],,0,0
+2150,X,0.0,image/image_2150.jpg,False,,[],,0,0
+2159,X,0.0,image/image_2159.jpg,False,,[],,0,0
+2169,X,0.0,image/image_2169.jpg,False,,[],,0,0
+2184,X,0.0,image/image_2184.jpg,False,,[],,0,0
+2185,X,0.0,image/image_2185.jpg,False,,[],,0,0
+2187,X,0.0,image/image_2187.jpg,False,,[],,0,0
+2196,X,0.0,image/image_2196.jpg,False,,[],,0,0
+2198,X,0.0,image/image_2198.jpg,False,,[],,0,0
+2199,X,0.0,image/image_2199.jpg,False,,[],,0,0
+2203,X,0.0,image/image_2203.jpg,False,,[],,0,0
+2205,X,0.0,image/image_2205.jpg,False,,[],,0,0
+2206,X,0.0,image/image_2206.jpg,False,,[],,0,0
+2215,X,0.0,image/image_2215.jpg,False,,[],,0,0
+2220,X,0.0,image/image_2220.jpg,False,,[],,0,0
+2222,X,0.0,image/image_2222.jpg,False,,[],,0,0
+2232,X,0.0,image/image_2232.jpg,False,,[],,0,0
+2233,X,0.0,image/image_2233.jpg,False,,[],,0,0
+2234,X,0.0,image/image_2234.jpg,False,,[],,0,0
+2245,X,0.0,image/image_2245.jpg,False,,[],,0,0
+2246,X,0.0,image/image_2246.jpg,False,,[],,0,0
+2256,X,0.0,image/image_2256.jpg,False,,[],,0,0
+2267,X,0.0,image/image_2267.jpg,False,,[],,0,0
+2274,X,0.0,image/image_2274.jpg,False,,[],,0,0
+2284,X,0.0,image/image_2284.jpg,False,,[],,0,0
+2286,X,0.0,image/image_2286.jpg,False,,[],,0,0
+2288,X,0.0,image/image_2288.jpg,False,,[],,0,0
+2299,X,0.0,image/image_2299.jpg,False,,[],,0,0
+2300,X,0.0,image/image_2300.jpg,False,,[],,0,0
+2309,X,0.0,image/image_2309.jpg,False,,[],,0,0
+2314,X,0.0,image/image_2314.jpg,False,,[],,0,0
+2329,X,0.0,image/image_2329.jpg,False,,[],,0,0
+2334,X,0.0,image/image_2334.jpg,False,,[],,0,0
+2343,X,0.0,image/image_2343.jpg,False,,[],,0,0
+2351,X,0.0,image/image_2351.jpg,False,,[],,0,0
+2352,X,0.0,image/image_2352.jpg,False,,[],,0,0
+2354,X,0.0,image/image_2354.jpg,False,,[],,0,0
+2355,X,0.0,image/image_2355.jpg,False,,[],,0,0
+2371,X,0.0,image/image_2371.jpg,False,,[],,0,0
+2372,X,0.0,image/image_2372.jpg,False,,[],,0,0
+2383,X,0.0,image/image_2383.jpg,False,,[],,0,0
+2384,X,0.0,image/image_2384.jpg,False,,[],,0,0
+2387,X,0.0,image/image_2387.jpg,False,,[],,0,0
+2389,X,0.0,image/image_2389.jpg,False,,[],,0,0
+2401,X,0.0,image/image_2401.jpg,False,,[],,0,0
+2402,X,0.0,image/image_2402.jpg,False,,[],,0,0
+2405,X,0.0,image/image_2405.jpg,False,,[],,0,0
+2406,X,0.0,image/image_2406.jpg,False,,[],,0,0
+2417,X,0.0,image/image_2417.jpg,False,,[],,0,0
+2429,X,0.0,image/image_2429.jpg,False,,[],,0,0
+2431,X,0.0,image/image_2431.jpg,False,,[],,0,0
+2432,X,0.0,image/image_2432.jpg,False,,[],,0,0
+2438,X,0.0,image/image_2438.jpg,False,,[],,0,0
+2452,X,0.0,image/image_2452.jpg,False,,[],,0,0
+2459,X,0.0,image/image_2459.jpg,False,,[],,0,0
+2462,X,0.0,image/image_2462.jpg,False,,[],,0,0
+2464,X,0.0,image/image_2464.jpg,False,,[],,0,0
+2467,X,0.0,image/image_2467.jpg,False,,[],,0,0
+2475,X,0.0,image/image_2475.jpg,False,,[],,0,0
+2480,X,0.0,image/image_2480.jpg,False,,[],,0,0
+2489,X,0.0,image/image_2489.jpg,False,,[],,0,0
+2491,X,0.0,image/image_2491.jpg,False,,[],,0,0
+2494,X,0.0,image/image_2494.jpg,False,,[],,0,0
+2503,X,0.0,image/image_2503.jpg,False,,[],,0,0
+2505,X,0.0,image/image_2505.jpg,False,,[],,0,0
+2529,X,0.0,image/image_2529.jpg,False,,[],,0,0
+2532,X,0.0,image/image_2532.jpg,False,,[],,0,0
+2545,X,0.0,image/image_2545.jpg,False,,[],,0,0
+2548,X,0.0,image/image_2548.jpg,False,,[],,0,0
+2554,X,0.0,image/image_2554.jpg,False,,[],,0,0
+2555,X,0.0,image/image_2555.jpg,False,,[],,0,0
+2579,X,0.0,image/image_2579.jpg,False,,[],,0,0
+2582,X,0.0,image/image_2582.jpg,False,,[],,0,0
+2615,X,0.0,image/image_2615.jpg,False,,[],,0,0
+2622,X,0.0,image/image_2622.jpg,False,,[],,0,0
+2623,X,0.0,image/image_2623.jpg,False,,[],,0,0
+2627,X,0.0,image/image_2627.jpg,False,,[],,0,0
+2631,X,0.0,image/image_2631.jpg,False,,[],,0,0
+2633,X,0.0,image/image_2633.jpg,False,,[],,0,0
+2635,X,0.0,image/image_2635.jpg,False,,[],,0,0
+2645,X,0.0,image/image_2645.jpg,False,,[],,0,0
+2652,X,0.0,image/image_2652.jpg,False,,[],,0,0
+2656,X,0.0,image/image_2656.jpg,False,,[],,0,0
+2668,X,0.0,image/image_2668.jpg,False,,[],,0,0
+2673,X,0.0,image/image_2673.jpg,False,,[],,0,0
+2688,X,0.0,image/image_2688.jpg,False,,[],,0,0
+2692,X,0.0,image/image_2692.jpg,False,,[],,0,0
+2706,X,0.0,image/image_2706.jpg,False,,[],,0,0
+2712,X,0.0,image/image_2712.jpg,False,,[],,0,0
+2721,X,0.0,image/image_2721.jpg,True,bonus,"[""bonus""]",exact,1,0
+2723,X,0.0,image/image_2723.jpg,False,,[],,0,0
+2725,X,0.0,image/image_2725.jpg,False,,[],,0,0
+2727,X,0.0,image/image_2727.jpg,False,,[],,0,0
+2735,X,0.0,image/image_2735.jpg,False,,[],,0,0
+2740,X,0.0,image/image_2740.jpg,False,,[],,0,0
+2741,X,0.0,image/image_2741.jpg,False,,[],,0,0
+2747,X,0.0,image/image_2747.jpg,False,,[],,0,0
+2753,X,0.0,image/image_2753.jpg,False,,[],,0,0
+2754,X,0.0,image/image_2754.jpg,False,,[],,0,0
+2758,X,0.0,image/image_2758.jpg,False,,[],,0,0
+2765,X,0.0,image/image_2765.jpg,False,,[],,0,0
+2766,X,0.0,image/image_2766.jpg,False,,[],,0,0
+2776,X,0.0,image/image_2776.jpg,False,,[],,0,0
+2778,X,0.0,image/image_2778.jpg,False,,[],,0,0
+2780,X,0.0,image/image_2780.jpg,False,,[],,0,0
+2784,X,0.0,image/image_2784.jpg,False,,[],,0,0
+2808,X,0.0,image/image_2808.jpg,False,,[],,0,0
+2817,X,0.0,image/image_2817.jpg,False,,[],,0,0
+2818,X,0.0,image/image_2818.jpg,False,,[],,0,0
+2820,X,0.0,image/image_2820.jpg,False,,[],,0,0
+2853,TikTok,1.0,image/image_2853.jpg,True,gacor,"[""gacor""]",exact,1,0
+2856,TikTok,1.0,image/image_2856.jpg,True,gacor|mahjong,"[""gacor"", ""mahjong""]",exact,2,0
+2861,TikTok,1.0,image/image_2861.jpg,False,,[],,0,0
+2865,TikTok,1.0,image/image_2865.jpg,True,pragmatic,"[""pragmatic""]",exact,2,0
+2875,TikTok,1.0,image/image_2875.jpg,False,,[],,0,0
+2881,TikTok,1.0,image/image_2881.jpg,True,mahjong,"[""mahjong""]",exact,1,0
+2884,TikTok,1.0,image/image_2884.jpg,True,scatter,"[""scatter""]",exact,1,0
+2888,TikTok,1.0,image/image_2888.jpg,False,,[],,0,0
+2889,TikTok,1.0,image/image_2889.jpg,True,gacor,"[""gacor""]",exact,1,0
+2902,TikTok,1.0,image/image_2902.jpg,False,,[],,0,0
+2906,TikTok,1.0,image/image_2906.jpg,True,scatter,"[""scatter""]",exact,1,0
+2909,TikTok,1.0,image/image_2909.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+2911,TikTok,1.0,image/image_2911.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+2914,TikTok,1.0,image/image_2914.jpg,True,gacor,"[""gacor""]",exact,1,0
+2918,TikTok,1.0,image/image_2918.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+2930,TikTok,1.0,image/image_2930.jpg,True,jackpot,"[""jackpot""]",exact,1,0
+2936,TikTok,1.0,image/image_2936.jpg,True,gacor,"[""gacor""]",exact,1,0
+2950,TikTok,1.0,image/image_2950.jpg,False,,[],,0,0
+2956,TikTok,1.0,image/image_2956.jpg,True,scatter,"[""scatter""]",exact,1,0
+2966,TikTok,1.0,image/image_2966.jpg,False,,[],,0,0
+2967,TikTok,1.0,image/image_2967.jpg,False,,[],,0,0
+2973,TikTok,1.0,image/image_2973.jpg,False,,[],,0,0
+2976,TikTok,1.0,image/image_2976.jpg,False,,[],,0,0
+2983,TikTok,1.0,image/image_2983.jpg,True,scatter,"[""scatter""]",exact,1,0
+2984,TikTok,1.0,image/image_2984.jpg,False,,[],,0,0
+2987,TikTok,1.0,image/image_2987.jpg,False,,[],,0,0
+2995,TikTok,1.0,image/image_2995.jpg,True,mahjong,"[""mahjong""]",approved_compound|exact,2,0
+3011,TikTok,1.0,image/image_3011.jpg,True,pragmatic,"[""pragmatic""]",approved_compound,1,0
+3012,TikTok,1.0,image/image_3012.jpg,True,mahjong,"[""mahjong""]",exact,1,0
+3028,TikTok,1.0,image/image_3028.jpg,True,bonus|slot,"[""bonus"", ""slot""]",exact,16,0
+3037,X,1.0,image/image_3037.jpg,True,bet|bonus|maxwin,"[""bet"", ""bonus"", ""maxwin""]",approved_compound|exact,3,0
+3046,X,1.0,image/image_3046.jpg,True,bet|maxwin,"[""bet"", ""maxwin""]",approved_compound|exact,2,0
+3049,X,1.0,image/image_3049.jpg,True,bet|maxwin,"[""bet"", ""maxwin""]",approved_compound|exact,2,0
+3060,X,1.0,image/image_3060.jpg,True,casino|maxwin,"[""casino"", ""maxwin""]",approved_compound|exact,2,0
+3061,X,1.0,image/image_3061.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+3078,X,1.0,image/image_3078.jpg,True,bet|maxwin|slot,"[""bet"", ""maxwin"", ""slot""]",approved_compound|exact,3,0
+3094,X,1.0,image/image_3094.jpg,True,bet|maxwin,"[""bet"", ""maxwin""]",exact,2,0
+3097,X,1.0,image/image_3097.jpg,True,maxwin,"[""maxwin""]",exact,3,0
+3100,X,1.0,image/image_3100.jpg,True,maxwin,"[""maxwin""]",exact,3,0
+3107,X,1.0,image/image_3107.jpg,True,bet|maxwin|slot,"[""bet"", ""maxwin"", ""slot""]",approved_compound|exact,3,0
+3108,X,1.0,image/image_3108.jpg,True,maxwin,"[""maxwin""]",exact,2,0
+3119,X,1.0,image/image_3119.jpg,True,maxwin,"[""maxwin""]",exact,2,0
+3134,X,1.0,image/image_3134.jpg,True,scatter,"[""scatter""]",exact,1,0
+3141,X,1.0,image/image_3141.jpg,True,scatter,"[""scatter""]",exact,1,0
+3148,X,1.0,image/image_3148.jpg,True,scatter,"[""scatter""]",exact,1,0
+3149,X,1.0,image/image_3149.jpg,True,pragmatic|scatter,"[""pragmatic"", ""scatter""]",exact,3,0
+3156,X,1.0,image/image_3156.jpg,True,scatter,"[""scatter""]",exact,1,0
+3158,X,1.0,image/image_3158.jpg,True,bonus|scatter,"[""bonus"", ""scatter""]",exact,2,0
+3173,X,1.0,image/image_3173.jpg,True,scatter,"[""scatter""]",exact,1,0
+3174,X,1.0,image/image_3174.jpg,True,bonus|scatter,"[""bonus"", ""scatter""]",exact,2,0
+3177,X,1.0,image/image_3177.jpg,True,gacor|rtp|slot|togel,"[""gacor"", ""rtp"", ""slot"", ""togel""]",approved_compound|exact,6,0
+3178,X,1.0,image/image_3178.jpg,True,bonus|gacor|slot,"[""bonus"", ""gacor"", ""slot""]",approved_compound|exact,4,0
+3185,X,1.0,image/image_3185.jpg,True,gacor|jp|slot|togel,"[""gacor"", ""jp"", ""slot"", ""togel""]",approved_compound|exact,12,0
+3192,X,1.0,image/image_3192.jpg,True,gacor|jp|slot|togel,"[""gacor"", ""jp"", ""slot"", ""togel""]",approved_compound|exact,12,0
+3204,X,1.0,image/image_3204.jpg,True,gacor|jp|slot|togel,"[""gacor"", ""jp"", ""slot"", ""togel""]",approved_compound|exact,12,0
+3212,X,1.0,image/image_3212.jpg,True,gacor|slot,"[""gacor"", ""slot""]",approved_compound|exact,8,0
+3216,X,1.0,image/image_3216.jpg,True,gacor|slot|togel,"[""gacor"", ""slot"", ""togel""]",approved_compound,10,0
+3217,X,1.0,image/image_3217.jpg,True,gacor|slot|togel,"[""gacor"", ""slot"", ""togel""]",approved_compound,10,0
+3231,X,1.0,image/image_3231.jpg,True,gacor|jp|maxwin|slot,"[""gacor"", ""jp"", ""maxwin"", ""slot""]",approved_compound|exact,10,0
+3249,X,1.0,image/image_3249.jpg,False,,[],,0,0
+3255,X,1.0,image/image_3255.jpg,True,casino|pragmatic,"[""casino"", ""pragmatic""]",approved_compound|exact,2,0
+3260,X,1.0,image/image_3260.jpg,True,bet,"[""bet""]",approved_compound,2,0
+3262,X,1.0,image/image_3262.jpg,True,rtp,"[""rtp""]",exact,1,0
+3265,X,1.0,image/image_3265.jpg,True,bet|bonus|freebet,"[""bet"", ""bonus"", ""freebet""]",approved_compound|exact,3,0
+3268,X,1.0,image/image_3268.jpg,True,gacor|pragmatic|slot,"[""gacor"", ""pragmatic"", ""slot""]",approved_compound,4,0
+3269,X,1.0,image/image_3269.jpg,True,bet,"[""bet""]",approved_compound,1,0
+3270,X,1.0,image/image_3270.jpg,True,casino,"[""casino""]",exact,1,0
+3302,X,1.0,image/image_3302.jpg,False,,[],,0,0
+3338,X,1.0,image/image_3338.jpg,True,pragmatic,"[""pragmatic""]",approved_compound,1,0
+3341,X,1.0,image/image_3341.jpg,True,pragmatic|slot,"[""pragmatic"", ""slot""]",approved_compound|exact,2,0
+3345,X,1.0,image/image_3345.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3348,X,1.0,image/image_3348.jpg,True,pragmatic|slot,"[""pragmatic"", ""slot""]",approved_compound,2,0
+3351,X,1.0,image/image_3351.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3357,X,1.0,image/image_3357.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3359,X,1.0,image/image_3359.jpg,True,bonus|casino|pragmatic,"[""bonus"", ""casino"", ""pragmatic""]",approved_compound|exact,4,0
+3360,X,1.0,image/image_3360.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3367,X,1.0,image/image_3367.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3372,X,1.0,image/image_3372.jpg,True,pragmatic,"[""pragmatic""]",approved_compound,1,0
+3377,X,1.0,image/image_3377.jpg,True,bonus|pragmatic,"[""bonus"", ""pragmatic""]",approved_compound|exact,3,0
+3378,X,1.0,image/image_3378.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3387,X,1.0,image/image_3387.jpg,True,bet|pragmatic,"[""bet"", ""pragmatic""]",approved_compound|exact,2,0
+3397,X,1.0,image/image_3397.jpg,True,pragmatic,"[""pragmatic""]",approved_compound,1,0
+3399,X,1.0,image/image_3399.jpg,True,bonus|casino|pragmatic|slot,"[""bonus"", ""casino"", ""pragmatic"", ""slot""]",approved_compound|exact,7,0
+3403,X,1.0,image/image_3403.jpg,True,bet|pragmatic,"[""bet"", ""pragmatic""]",approved_compound|exact,3,0
+3406,X,1.0,image/image_3406.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3411,X,1.0,image/image_3411.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+3413,X,1.0,image/image_3413.jpg,True,pragmatic,"[""pragmatic""]",approved_compound,1,0
+3420,X,1.0,image/image_3420.jpg,True,mahjong,"[""mahjong""]",approved_compound|exact,2,0
+3436,X,1.0,image/image_3436.jpg,True,mahjong|scatter|slot,"[""mahjong"", ""scatter"", ""slot""]",approved_compound|exact,4,0
+3446,X,1.0,image/image_3446.jpg,True,gacor|jackpot|mahjong|scatter|slot,"[""gacor"", ""jackpot"", ""mahjong"", ""scatter"", ""slot""]",approved_compound|exact,8,0
+3449,X,1.0,image/image_3449.jpg,True,gacor|maxwin|slot,"[""gacor"", ""maxwin"", ""slot""]",approved_compound|exact,7,0
+3450,X,1.0,image/image_3450.jpg,True,gacor|slot,"[""gacor"", ""slot""]",approved_compound|exact,5,0
+3475,X,1.0,image/image_3475.jpg,True,gacor|jackpot|pragmatic|slot,"[""gacor"", ""jackpot"", ""pragmatic"", ""slot""]",approved_compound|exact,10,0
+3492,X,1.0,image/image_3492.jpg,True,gacor|pragmatic|rtp|slot,"[""gacor"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,9,0
+3504,X,1.0,image/image_3504.jpg,True,gacor|jackpot|pragmatic|slot,"[""gacor"", ""jackpot"", ""pragmatic"", ""slot""]",approved_compound|exact,10,0
+3505,X,1.0,image/image_3505.jpg,True,gacor|pragmatic|rtp|slot,"[""gacor"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,10,0
+3507,X,1.0,image/image_3507.jpg,True,gacor|pragmatic|rtp|slot,"[""gacor"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,10,0
+3518,X,1.0,image/image_3518.jpg,True,gacor|jackpot|pragmatic|slot,"[""gacor"", ""jackpot"", ""pragmatic"", ""slot""]",approved_compound|exact,9,0
+3532,X,1.0,image/image_3532.jpg,True,gacor|pragmatic|rtp|slot,"[""gacor"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,9,0
+3547,X,1.0,image/image_3547.jpg,True,gacor|scatter|slot,"[""gacor"", ""scatter"", ""slot""]",approved_compound,4,0
+3549,X,1.0,image/image_3549.jpg,True,depo|gacor|scatter|slot,"[""depo"", ""gacor"", ""scatter"", ""slot""]",approved_compound|exact,6,0
+3553,X,1.0,image/image_3553.jpg,True,gacor|jp|scatter|slot,"[""gacor"", ""jp"", ""scatter"", ""slot""]",approved_compound|exact,5,0
+3556,X,1.0,image/image_3556.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+3558,X,1.0,image/image_3558.jpg,True,gacor|slot,"[""gacor"", ""slot""]",approved_compound|exact,5,0
+3563,X,1.0,image/image_3563.jpg,True,mahjong|scatter,"[""mahjong"", ""scatter""]",approved_compound|exact,3,0
+3568,X,1.0,image/image_3568.jpg,True,depo|deposit|mahjong|scatter,"[""depo"", ""deposit"", ""mahjong"", ""scatter""]",approved_compound|exact,4,0
+3573,X,1.0,image/image_3573.jpg,True,gacor|jackpot|mahjong|rtp|scatter|slot|withdraw,"[""gacor"", ""jackpot"", ""mahjong"", ""rtp"", ""scatter"", ""slot"", ""withdraw""]",approved_compound|exact,13,0
+3580,X,1.0,image/image_3580.jpg,True,deposit|maxwin|scatter,"[""deposit"", ""maxwin"", ""scatter""]",approved_compound|exact,4,0
+3581,X,1.0,image/image_3581.jpg,True,bet|pragmatic|scatter|slot,"[""bet"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,4,0
+3583,X,1.0,image/image_3583.jpg,True,bet|gacor|scatter|slot,"[""bet"", ""gacor"", ""scatter"", ""slot""]",approved_compound|exact,5,0
+3591,X,1.0,image/image_3591.jpg,True,mahjong|scatter|slot,"[""mahjong"", ""scatter"", ""slot""]",approved_compound|exact,6,0
+3595,X,1.0,image/image_3595.jpg,False,,[],,0,0
+3617,X,1.0,image/image_3617.jpg,True,freebet,"[""freebet""]",exact,1,0
+3626,X,1.0,image/image_3626.jpg,False,,[],,0,0
+3627,X,1.0,image/image_3627.jpg,True,freebet,"[""freebet""]",exact,1,0
+3638,X,1.0,image/image_3638.jpg,True,freebet,"[""freebet""]",exact,1,0
+3644,X,1.0,image/image_3644.jpg,True,bonus|casino|freebet,"[""bonus"", ""casino"", ""freebet""]",approved_compound|exact,4,0
+3645,X,1.0,image/image_3645.jpg,True,bonus|casino|freebet,"[""bonus"", ""casino"", ""freebet""]",approved_compound|exact,5,0
+3655,X,1.0,image/image_3655.jpg,True,bonus|casino|freebet,"[""bonus"", ""casino"", ""freebet""]",approved_compound|exact,4,0
+3657,X,1.0,image/image_3657.jpg,True,freebet,"[""freebet""]",exact,1,0
+3662,X,1.0,image/image_3662.jpg,True,casino|freebet,"[""casino"", ""freebet""]",exact,2,0
+3668,X,1.0,image/image_3668.jpg,True,freebet,"[""freebet""]",exact,1,0
+3679,X,1.0,image/image_3679.jpg,True,freebet,"[""freebet""]",exact,1,0
+3680,X,1.0,image/image_3680.jpg,True,freebet,"[""freebet""]",exact,1,0
+3689,X,1.0,image/image_3689.jpg,True,bonus|freebet,"[""bonus"", ""freebet""]",approved_compound|exact,2,0
+3692,X,1.0,image/image_3692.jpg,True,bonus|freebet,"[""bonus"", ""freebet""]",exact,2,0
+3696,X,1.0,image/image_3696.jpg,True,bonus|freebet,"[""bonus"", ""freebet""]",approved_compound|exact,4,0
+3702,X,1.0,image/image_3702.jpg,True,freebet,"[""freebet""]",exact,1,0
+3704,X,1.0,image/image_3704.jpg,True,freebet,"[""freebet""]",exact,1,0
+3722,X,1.0,image/image_3722.jpg,True,freebet,"[""freebet""]",exact,1,0
+3723,X,1.0,image/image_3723.jpg,True,freebet,"[""freebet""]",exact,1,0
+3725,X,1.0,image/image_3725.jpg,True,freebet,"[""freebet""]",exact,1,0
+3727,X,1.0,image/image_3727.jpg,True,freebet,"[""freebet""]",exact,1,0
+3728,X,1.0,image/image_3728.jpg,True,bet|bonus,"[""bet"", ""bonus""]",approved_compound|exact,3,0
+3733,X,1.0,image/image_3733.jpg,True,freebet,"[""freebet""]",exact,1,0
+3739,X,1.0,image/image_3739.jpg,True,freebet,"[""freebet""]",exact,1,0
+3745,X,1.0,image/image_3745.jpg,True,freebet|slot,"[""freebet"", ""slot""]",exact,2,0
+3752,X,1.0,image/image_3752.jpg,True,casino,"[""casino""]",exact,1,0
+3753,X,1.0,image/image_3753.jpg,True,freebet,"[""freebet""]",exact,1,0
+3754,X,1.0,image/image_3754.jpg,True,freebet,"[""freebet""]",exact,1,0
+3756,X,1.0,image/image_3756.jpg,True,freebet,"[""freebet""]",exact,1,0
+3759,X,1.0,image/image_3759.jpg,True,bonus|freebet,"[""bonus"", ""freebet""]",approved_compound|exact,2,0
+3763,X,1.0,image/image_3763.jpg,True,freebet,"[""freebet""]",exact,1,0
+3767,X,1.0,image/image_3767.jpg,True,freebet,"[""freebet""]",exact,1,0
+3779,X,1.0,image/image_3779.jpg,True,freebet|slot,"[""freebet"", ""slot""]",exact,3,0
+3790,X,1.0,image/image_3790.jpg,True,freebet|slot,"[""freebet"", ""slot""]",exact,2,0
+3791,X,1.0,image/image_3791.jpg,True,freebet,"[""freebet""]",exact,2,0
+3792,X,1.0,image/image_3792.jpg,True,freebet,"[""freebet""]",exact,1,0
+3804,X,1.0,image/image_3804.jpg,True,freebet,"[""freebet""]",exact,1,0
+3805,X,1.0,image/image_3805.jpg,True,freebet,"[""freebet""]",exact,1,0
+3806,X,1.0,image/image_3806.jpg,True,freebet,"[""freebet""]",exact,1,0
+3810,X,1.0,image/image_3810.jpg,True,freebet,"[""freebet""]",exact,1,0
+3814,X,1.0,image/image_3814.jpg,True,freebet,"[""freebet""]",exact,1,0
+3818,X,1.0,image/image_3818.jpg,True,freebet,"[""freebet""]",exact,1,0
+3827,X,1.0,image/image_3827.jpg,True,deposit|slot,"[""deposit"", ""slot""]",approved_compound,7,0
+3828,X,1.0,image/image_3828.jpg,True,deposit|gacor|slot,"[""deposit"", ""gacor"", ""slot""]",approved_compound,7,0
+3835,X,1.0,image/image_3835.jpg,True,deposit|slot,"[""deposit"", ""slot""]",approved_compound|exact,7,0
+3842,X,1.0,image/image_3842.jpg,True,bonus|deposit,"[""bonus"", ""deposit""]",approved_compound|exact,2,0
+3846,X,1.0,image/image_3846.jpg,True,deposit|slot,"[""deposit"", ""slot""]",approved_compound,4,0
+3850,X,1.0,image/image_3850.jpg,True,deposit|slot,"[""deposit"", ""slot""]",approved_compound,4,0
+3867,X,1.0,image/image_3867.jpg,False,,[],,0,0
+3888,X,1.0,image/image_3888.jpg,True,bonus|deposit|slot,"[""bonus"", ""deposit"", ""slot""]",exact,8,0
+3897,X,1.0,image/image_3897.jpg,True,gacor|slot,"[""gacor"", ""slot""]",approved_compound,3,0
+3901,X,1.0,image/image_3901.jpg,False,,[],,0,0
+3905,X,1.0,image/image_3905.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+3907,X,1.0,image/image_3907.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+3911,X,1.0,image/image_3911.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+3912,X,1.0,image/image_3912.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+3913,X,1.0,image/image_3913.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+3919,X,1.0,image/image_3919.jpg,False,,[],,0,0
+3922,X,1.0,image/image_3922.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+3923,X,1.0,image/image_3923.jpg,False,,[],,0,0
+3940,X,1.0,image/image_3940.jpg,True,slot,"[""slot""]",approved_compound,1,0
+3949,X,1.0,image/image_3949.jpg,False,,[],,0,0
+3969,X,1.0,image/image_3969.jpg,True,slot,"[""slot""]",approved_compound,1,0
+3989,X,1.0,image/image_3989.jpg,False,,[],,0,0
+3990,X,1.0,image/image_3990.jpg,False,,[],,0,0
+4009,X,1.0,image/image_4009.jpg,False,,[],,0,0
+4046,X,1.0,image/image_4046.jpg,False,,[],,0,0
+4050,X,1.0,image/image_4050.jpg,False,,[],,0,0
+4057,X,1.0,image/image_4057.jpg,True,slot,"[""slot""]",approved_compound,2,0
+4063,X,1.0,image/image_4063.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+4069,X,1.0,image/image_4069.jpg,True,bet|casino|slot,"[""bet"", ""casino"", ""slot""]",approved_compound|exact,3,0
+4070,X,1.0,image/image_4070.jpg,False,,[],,0,0
+4082,X,1.0,image/image_4082.jpg,True,slot,"[""slot""]",approved_compound|exact,2,0
+4083,X,1.0,image/image_4083.jpg,True,bet|casino|maxwin|slot,"[""bet"", ""casino"", ""maxwin"", ""slot""]",approved_compound|exact,5,0
+4085,X,1.0,image/image_4085.jpg,False,,[],,0,0
+4089,X,1.0,image/image_4089.jpg,True,slot,"[""slot""]",exact,2,0
+4090,X,1.0,image/image_4090.jpg,True,maxwin,"[""maxwin""]",exact,2,0
+4116,Facebook,1.0,image/image_4116.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+4124,Facebook,1.0,image/image_4124.jpg,True,mahjong|maxwin,"[""mahjong"", ""maxwin""]",exact,2,0
+4136,Facebook,1.0,image/image_4136.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+4144,Facebook,1.0,image/image_4144.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+4148,Facebook,1.0,image/image_4148.jpg,True,maxwin,"[""maxwin""]",exact,1,0
+4152,Facebook,1.0,image/image_4152.jpg,True,maxwin|pragmatic,"[""maxwin"", ""pragmatic""]",exact,2,0
+4157,Facebook,1.0,image/image_4157.jpg,False,,[],,0,0
+4158,Facebook,1.0,image/image_4158.jpg,True,scatter,"[""scatter""]",exact,1,0
+4168,Facebook,1.0,image/image_4168.jpg,True,bet|pragmatic,"[""bet"", ""pragmatic""]",approved_compound|exact,2,0
+4170,Facebook,1.0,image/image_4170.jpg,True,pragmatic,"[""pragmatic""]",approved_compound,1,0
+4175,Facebook,1.0,image/image_4175.jpg,False,,[],,0,0
+4179,Facebook,1.0,image/image_4179.jpg,True,gacor|maxwin|pragmatic|scatter|slot,"[""gacor"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,21,0
+4182,Facebook,1.0,image/image_4182.jpg,True,bet|slot,"[""bet"", ""slot""]",approved_compound|exact,2,0
+4183,Facebook,1.0,image/image_4183.jpg,False,,[],,0,0
+4192,Facebook,1.0,image/image_4192.jpg,False,,[],,0,0
+4193,Facebook,1.0,image/image_4193.jpg,False,,[],,0,0
+4201,Facebook,1.0,image/image_4201.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,36,0
+4202,Facebook,1.0,image/image_4202.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,36,0
+4203,Facebook,1.0,image/image_4203.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,36,0
+4204,Facebook,1.0,image/image_4204.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,35,0
+4206,Facebook,1.0,image/image_4206.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,35,0
+4207,Facebook,1.0,image/image_4207.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,35,0
+4209,Facebook,1.0,image/image_4209.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,39,0
+4225,Facebook,1.0,image/image_4225.jpg,True,pragmatic,"[""pragmatic""]",approved_compound|exact,2,0
+4230,Facebook,1.0,image/image_4230.jpg,True,gacor|pragmatic,"[""gacor"", ""pragmatic""]",approved_compound|exact,2,0
+4240,Facebook,1.0,image/image_4240.jpg,True,bonus|deposit|freebet|gacor|jackpot|maxwin|pragmatic|slot|withdraw,"[""bonus"", ""deposit"", ""freebet"", ""gacor"", ""jackpot"", ""maxwin"", ""pragmatic"", ""slot"", ""withdraw""]",approved_compound|exact,17,0
+4265,Facebook,1.0,image/image_4265.jpg,True,gacor|mahjong|slot,"[""gacor"", ""mahjong"", ""slot""]",approved_compound|exact,9,0
+4275,Facebook,1.0,image/image_4275.jpg,True,gacor|mahjong|slot,"[""gacor"", ""mahjong"", ""slot""]",approved_compound|exact,7,0
+4276,Facebook,1.0,image/image_4276.jpg,True,gacor|mahjong|slot,"[""gacor"", ""mahjong"", ""slot""]",approved_compound|exact,13,0
+4286,Facebook,1.0,image/image_4286.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,41,0
+4287,Facebook,1.0,image/image_4287.jpg,True,bet|bonus|depo|gacor|mahjong|maxwin|pragmatic|rtp|slot,"[""bet"", ""bonus"", ""depo"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,55,0
+4301,Facebook,1.0,image/image_4301.jpg,True,bet|bonus|depo|gacor|mahjong|maxwin|pragmatic|rtp|slot,"[""bet"", ""bonus"", ""depo"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,55,0
+4304,Facebook,1.0,image/image_4304.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|scatter|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,61,0
+4307,Facebook,1.0,image/image_4307.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|scatter|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""scatter"", ""slot""]",approved_compound|exact,35,0
+4310,Facebook,1.0,image/image_4310.jpg,True,gacor|maxwin|pragmatic|scatter|slot,"[""gacor"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,38,0
+4313,Facebook,1.0,image/image_4313.jpg,True,gacor|maxwin|pragmatic|scatter|slot,"[""gacor"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,38,0
+4328,Facebook,1.0,image/image_4328.jpg,True,gacor|maxwin|pragmatic|scatter|slot,"[""gacor"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,22,0
+4337,Facebook,1.0,image/image_4337.jpg,False,,[],,0,0
+4341,Facebook,1.0,image/image_4341.jpg,False,,[],,0,0
+4342,Facebook,1.0,image/image_4342.jpg,False,,[],,0,0
+4358,Facebook,1.0,image/image_4358.jpg,False,,[],,0,0
+4366,Facebook,1.0,image/image_4366.jpg,True,pragmatic,"[""pragmatic""]",exact,1,0
+4368,Facebook,1.0,image/image_4368.jpg,False,,[],,0,0
+4375,Facebook,1.0,image/image_4375.jpg,False,,[],,0,0
+4379,Facebook,1.0,image/image_4379.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,39,0
+4392,Facebook,1.0,image/image_4392.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,42,0
+4428,Facebook,1.0,image/image_4428.jpg,True,bonus,"[""bonus""]",exact,1,0
+4467,Facebook,1.0,image/image_4467.jpg,True,bet|bonus|gacor|jackpot|mahjong|maxwin|pragmatic|rtp|scatter|slot|togel,"[""bet"", ""bonus"", ""gacor"", ""jackpot"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""scatter"", ""slot"", ""togel""]",approved_compound|exact,63,0
+4479,Facebook,1.0,image/image_4479.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4498,Facebook,1.0,image/image_4498.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,36,0
+4500,Facebook,1.0,image/image_4500.jpg,True,bonus|depo|gacor|maxwin|pragmatic|rtp|slot,"[""bonus"", ""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,36,0
+4511,Facebook,1.0,image/image_4511.jpg,True,bet|bonus|depo|deposit|freebet|gacor|mahjong|maxwin|pragmatic|slot|withdraw,"[""bet"", ""bonus"", ""depo"", ""deposit"", ""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""withdraw""]",approved_compound|exact,81,0
+4518,Facebook,1.0,image/image_4518.jpg,True,depo|gacor|maxwin|pragmatic|rtp|slot|togel,"[""depo"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot"", ""togel""]",approved_compound|exact,47,0
+4524,Facebook,1.0,image/image_4524.jpg,True,bet|bonus|depo|deposit|freebet|gacor|mahjong|maxwin|pragmatic|slot|withdraw,"[""bet"", ""bonus"", ""depo"", ""deposit"", ""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""withdraw""]",approved_compound|exact,81,0
+4526,Facebook,1.0,image/image_4526.jpg,True,bet|bonus|depo|deposit|freebet|gacor|mahjong|maxwin|pragmatic|slot|withdraw,"[""bet"", ""bonus"", ""depo"", ""deposit"", ""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""withdraw""]",approved_compound|exact,81,0
+4533,Facebook,1.0,image/image_4533.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,43,0
+4537,Facebook,1.0,image/image_4537.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,39,0
+4540,Facebook,1.0,image/image_4540.jpg,True,gacor|mahjong|maxwin|slot,"[""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,40,0
+4541,Facebook,1.0,image/image_4541.jpg,True,freebet|gacor|mahjong|maxwin|scatter|slot|withdraw,"[""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""scatter"", ""slot"", ""withdraw""]",approved_compound|exact,57,0
+4547,Facebook,1.0,image/image_4547.jpg,True,freebet|gacor|mahjong|maxwin|pragmatic|rtp|slot,"[""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,42,0
+4552,Facebook,1.0,image/image_4552.jpg,True,gacor|mahjong|maxwin|pragmatic|slot,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,41,0
+4570,Facebook,1.0,image/image_4570.jpg,True,freebet|gacor|mahjong|maxwin|pragmatic|slot,"[""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4588,Facebook,1.0,image/image_4588.jpg,True,bet|gacor|pragmatic|slot,"[""bet"", ""gacor"", ""pragmatic"", ""slot""]",approved_compound|exact,9,0
+4594,Facebook,1.0,image/image_4594.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,39,0
+4595,Facebook,1.0,image/image_4595.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,39,0
+4606,Facebook,1.0,image/image_4606.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,39,0
+4611,Facebook,1.0,image/image_4611.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4622,Facebook,1.0,image/image_4622.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,39,0
+4635,Facebook,1.0,image/image_4635.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,37,0
+4643,Facebook,1.0,image/image_4643.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,37,0
+4662,Facebook,1.0,image/image_4662.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|rtp|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,41,0
+4671,Facebook,1.0,image/image_4671.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,41,0
+4673,Facebook,1.0,image/image_4673.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,41,0
+4677,Facebook,1.0,image/image_4677.jpg,True,gacor|mahjong|maxwin|slot,"[""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,45,0
+4686,Facebook,1.0,image/image_4686.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,45,0
+4704,Facebook,1.0,image/image_4704.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,41,0
+4710,Facebook,1.0,image/image_4710.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,45,0
+4711,Facebook,1.0,image/image_4711.jpg,True,bet|bonus|depo|deposit|freebet|gacor|mahjong|maxwin|pragmatic|slot|withdraw,"[""bet"", ""bonus"", ""depo"", ""deposit"", ""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""withdraw""]",approved_compound|exact,81,0
+4713,Facebook,1.0,image/image_4713.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,39,0
+4715,Facebook,1.0,image/image_4715.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,39,0
+4716,Facebook,1.0,image/image_4716.jpg,True,bet|bonus|depo|deposit|freebet|gacor|mahjong|maxwin|pragmatic|slot|withdraw,"[""bet"", ""bonus"", ""depo"", ""deposit"", ""freebet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""withdraw""]",approved_compound|exact,81,0
+4724,Facebook,1.0,image/image_4724.jpg,True,bet|gacor|jackpot|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""jackpot"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,46,0
+4744,Facebook,1.0,image/image_4744.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,51,0
+4749,Facebook,1.0,image/image_4749.jpg,True,bet|deposit|gacor|maxwin|pragmatic|rtp|slot|togel,"[""bet"", ""deposit"", ""gacor"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot"", ""togel""]",approved_compound|exact,49,0
+4758,Facebook,1.0,image/image_4758.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,43,0
+4769,Facebook,1.0,image/image_4769.jpg,True,casino|gacor|mahjong|maxwin|pragmatic|slot,"[""casino"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,36,0
+4774,Facebook,1.0,image/image_4774.jpg,True,bet|bonus|depo|gacor|mahjong|maxwin|pragmatic|rtp|slot,"[""bet"", ""bonus"", ""depo"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,48,0
+4775,Facebook,1.0,image/image_4775.jpg,True,bet|bonus|depo|gacor|mahjong|maxwin|pragmatic|rtp|slot,"[""bet"", ""bonus"", ""depo"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""rtp"", ""slot""]",approved_compound|exact,48,0
+4776,Facebook,1.0,image/image_4776.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,45,0
+4780,Facebook,1.0,image/image_4780.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4796,Facebook,1.0,image/image_4796.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4802,Facebook,1.0,image/image_4802.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,35,0
+4804,Facebook,1.0,image/image_4804.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,35,0
+4808,Facebook,1.0,image/image_4808.jpg,False,,[],,0,0
+4812,Facebook,1.0,image/image_4812.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,38,0
+4816,Facebook,1.0,image/image_4816.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,38,0
+4824,Facebook,1.0,image/image_4824.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,38,0
+4827,Facebook,1.0,image/image_4827.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,35,0
+4830,Facebook,1.0,image/image_4830.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,35,0
+4832,Facebook,1.0,image/image_4832.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,38,0
+4834,Facebook,1.0,image/image_4834.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,38,0
+4835,Facebook,1.0,image/image_4835.jpg,True,bet|jp,"[""bet"", ""jp""]",exact,2,0
+4839,Facebook,1.0,image/image_4839.jpg,True,bet|gacor|mahjong|maxwin|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""slot""]",approved_compound|exact,39,0
+4844,Facebook,1.0,image/image_4844.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,36,0
+4856,Facebook,1.0,image/image_4856.jpg,True,gacor|maxwin|pragmatic|scatter|slot,"[""gacor"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,23,0
+4862,Facebook,1.0,image/image_4862.jpg,True,gacor|mahjong|maxwin|pragmatic|scatter|slot,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,44,0
+4865,Facebook,1.0,image/image_4865.jpg,True,freebet|gacor|jackpot|jp|mahjong|maxwin|pragmatic|scatter|slot,"[""freebet"", ""gacor"", ""jackpot"", ""jp"", ""mahjong"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,20,0
+4868,Facebook,1.0,image/image_4868.jpg,True,gacor|mahjong|scatter|slot,"[""gacor"", ""mahjong"", ""scatter"", ""slot""]",approved_compound|exact,13,0
+4869,Facebook,1.0,image/image_4869.jpg,True,gacor|mahjong|scatter|slot,"[""gacor"", ""mahjong"", ""scatter"", ""slot""]",approved_compound|exact,13,0
+4882,Facebook,1.0,image/image_4882.jpg,True,gacor|mahjong|scatter|slot,"[""gacor"", ""mahjong"", ""scatter"", ""slot""]",approved_compound|exact,9,0
+4894,Facebook,1.0,image/image_4894.jpg,True,bet|bonus|gacor|mahjong|maxwin|pragmatic|scatter|slot,"[""bet"", ""bonus"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""scatter"", ""slot""]",approved_compound|exact,36,0
+4908,Facebook,1.0,image/image_4908.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,42,0
+4911,Facebook,1.0,image/image_4911.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,42,0
+4917,Facebook,1.0,image/image_4917.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4918,Facebook,1.0,image/image_4918.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,38,0
+4923,Facebook,1.0,image/image_4923.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,38,0
+4924,Facebook,1.0,image/image_4924.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,38,0
+4926,Facebook,1.0,image/image_4926.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,37,0
+4928,Facebook,1.0,image/image_4928.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot|togel,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,44,0
+4932,Facebook,1.0,image/image_4932.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,38,0
+4933,Facebook,1.0,image/image_4933.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot|togel,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,44,0
+4936,Facebook,1.0,image/image_4936.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,38,0
+4939,Facebook,1.0,image/image_4939.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,40,0
+4942,Facebook,1.0,image/image_4942.jpg,True,gacor|mahjong|maxwin|pragmatic|slot|togel,"[""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,37,0
+4943,Facebook,1.0,image/image_4943.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot""]",approved_compound|exact,42,0
+4945,Facebook,1.0,image/image_4945.jpg,True,bet|gacor|mahjong|maxwin|pragmatic|slot|togel,"[""bet"", ""gacor"", ""mahjong"", ""maxwin"", ""pragmatic"", ""slot"", ""togel""]",approved_compound|exact,44,0
+4955,Facebook,1.0,image/image_4955.jpg,True,bonus|slot,"[""bonus"", ""slot""]",approved_compound|exact,2,0
+4956,Facebook,1.0,image/image_4956.jpg,True,bonus|slot,"[""bonus"", ""slot""]",approved_compound|exact,5,0
+4971,Facebook,1.0,image/image_4971.jpg,True,casino,"[""casino""]",exact,5,0
+4974,Facebook,1.0,image/image_4974.jpg,True,bonus|casino|deposit|slot,"[""bonus"", ""casino"", ""deposit"", ""slot""]",approved_compound|exact,7,0
+4980,Facebook,1.0,image/image_4980.jpg,True,bonus|casino|deposit|slot,"[""bonus"", ""casino"", ""deposit"", ""slot""]",approved_compound|exact,7,0
+4983,Facebook,1.0,image/image_4983.jpg,True,bonus|slot,"[""bonus"", ""slot""]",approved_compound|exact,2,0
+4990,Facebook,1.0,image/image_4990.jpg,True,slot,"[""slot""]",approved_compound,1,0
+4993,Facebook,1.0,image/image_4993.jpg,True,bonus|slot,"[""bonus"", ""slot""]",approved_compound|exact,2,0
+4994,Facebook,1.0,image/image_4994.jpg,True,bet|casino|deposit|slot,"[""bet"", ""casino"", ""deposit"", ""slot""]",approved_compound|exact,6,0
+4996,Facebook,1.0,image/image_4996.jpg,True,slot,"[""slot""]",approved_compound,1,0
+5006,Facebook,1.0,image/image_5006.jpg,False,,[],,0,0
+5012,Facebook,1.0,image/image_5012.jpg,True,bonus|slot,"[""bonus"", ""slot""]",approved_compound|exact,2,0
+5024,Facebook,1.0,image/image_5024.jpg,True,bet,"[""bet""]",approved_compound,1,0

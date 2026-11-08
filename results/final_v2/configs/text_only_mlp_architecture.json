@@ -1,0 +1,11 @@
+{
+  "model_name": "text_only_mlp",
+  "text_encoder": "intfloat/multilingual-e5-large",
+  "encoder_status": "frozen",
+  "input_dimension": 1024,
+  "hidden_dimension": 256,
+  "dropout_rate": 0.3,
+  "output_dimension": 1,
+  "activation": "ReLU",
+  "loss": "BCEWithLogitsLoss"
+}

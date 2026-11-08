@@ -1,0 +1,13 @@
+{
+  "model_name": "contrastive_similarity_fusion",
+  "text_dimension": 1024,
+  "image_dimension": 1152,
+  "projection_dimension": 512,
+  "similarity": "cosine",
+  "normalization": "L2",
+  "initial_temperature": 0.07,
+  "initial_logit_scale": 14.285714285714285,
+  "maximum_logit_scale": 100.0,
+  "loss": "BCEWithLogitsLoss",
+  "encoder_status": "frozen"
+}

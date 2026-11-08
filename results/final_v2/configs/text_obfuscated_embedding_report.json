@@ -1,0 +1,18 @@
+{
+  "encoder": "intfloat/multilingual-e5-large",
+  "encoder_status": "frozen",
+  "prefix": "query: ",
+  "normalize_embeddings": true,
+  "batch_size": 32,
+  "shape": [
+    751,
+    1024
+  ],
+  "changed_caption_count": 314,
+  "unchanged_caption_count": 437,
+  "mean_l2_norm": 1.0,
+  "changed_mean_cosine_vs_clean": 0.971931517124176,
+  "unchanged_mean_cosine_vs_clean": 1.0,
+  "generated_now": false,
+  "sha256": "ef25e8165f61502f75b1e5baf5e16c5205bf992ed414965a53d6f4fc82a6cf9d"
+}

@@ -1,0 +1,24 @@
+{
+  "model_name": "average_logit_fusion",
+  "seed": 62,
+  "text_component_checkpoint": "models/final_v2/text_only_mlp_seed_62.pt",
+  "image_component_checkpoint": "models/final_v2/image_only_mlp_seed_62.pt",
+  "text_weight": 0.5,
+  "image_weight": 0.5,
+  "selected_threshold": 0.57,
+  "validation_metrics": {
+    "threshold": 0.57,
+    "accuracy": 0.9814077025232404,
+    "precision": 1.0,
+    "recall": 0.9571865443425076,
+    "f1": 0.978125,
+    "roc_auc": 0.9972577565289802,
+    "pr_auc": 0.9972368004157297,
+    "brier_score": 0.016164810368664864,
+    "tn": 426,
+    "fp": 0,
+    "fn": 14,
+    "tp": 313
+  },
+  "trainable_fusion_parameters": 0
+}

@@ -1,0 +1,90 @@
+{
+  "experiment_version": "final_v2",
+  "test_rows_per_condition": 751,
+  "number_of_conditions": 6,
+  "expected_output_images": 4506,
+  "combined_manifest_rows": 4506,
+  "output_format": "PNG",
+  "overwrite_existing": false,
+  "total_duration_seconds": 2.81,
+  "conditions": {
+    "gaussian_blur_r2": {
+      "rows": 751,
+      "generated_now": 0,
+      "reused_existing": 751,
+      "missing_outputs": 0,
+      "blur_radius": 2.0,
+      "pixelation_scale": null,
+      "transform_order": "gaussian_blur_r2",
+      "total_output_size_mb": 859.14,
+      "duration_seconds": 0.96,
+      "manifest_sha256": "772b31166005de009698db9a3cf28cfd3cd2d916cd3bce735d7ff8ce9349f2f6",
+      "manifest_path": "perturbations/final_v2/manifests/image/test_gaussian_blur_r2.csv"
+    },
+    "gaussian_blur_r5": {
+      "rows": 751,
+      "generated_now": 0,
+      "reused_existing": 751,
+      "missing_outputs": 0,
+      "blur_radius": 5.0,
+      "pixelation_scale": null,
+      "transform_order": "gaussian_blur_r5",
+      "total_output_size_mb": 776.86,
+      "duration_seconds": 0.63,
+      "manifest_sha256": "6fff99c8494a215a447378226a255ce2bb667cc7a59459df680c144d4ae9e8f6",
+      "manifest_path": "perturbations/final_v2/manifests/image/test_gaussian_blur_r5.csv"
+    },
+    "pixelation_p50": {
+      "rows": 751,
+      "generated_now": 0,
+      "reused_existing": 751,
+      "missing_outputs": 0,
+      "blur_radius": null,
+      "pixelation_scale": 0.5,
+      "transform_order": "pixelation_p50",
+      "total_output_size_mb": 425.8,
+      "duration_seconds": 0.43,
+      "manifest_sha256": "20d75e59607ddf5e636b519cb0b3a2722ac447a864443d3ab89e1b97ceb3b79a",
+      "manifest_path": "perturbations/final_v2/manifests/image/test_pixelation_p50.csv"
+    },
+    "pixelation_p25": {
+      "rows": 751,
+      "generated_now": 0,
+      "reused_existing": 751,
+      "missing_outputs": 0,
+      "blur_radius": null,
+      "pixelation_scale": 0.25,
+      "transform_order": "pixelation_p25",
+      "total_output_size_mb": 155.48,
+      "duration_seconds": 0.28,
+      "manifest_sha256": "95379bf8caf051761f6337b7696efdd3f194052c806ceca31b44b5a42c5521b3",
+      "manifest_path": "perturbations/final_v2/manifests/image/test_pixelation_p25.csv"
+    },
+    "pixelation_p12_5": {
+      "rows": 751,
+      "generated_now": 0,
+      "reused_existing": 751,
+      "missing_outputs": 0,
+      "blur_radius": null,
+      "pixelation_scale": 0.125,
+      "transform_order": "pixelation_p12_5",
+      "total_output_size_mb": 66.41,
+      "duration_seconds": 0.25,
+      "manifest_sha256": "14fc418ded18d4c5d21d223ba23b870ba745f5edd969691b29371b3421ba10c8",
+      "manifest_path": "perturbations/final_v2/manifests/image/test_pixelation_p12_5.csv"
+    },
+    "blur_r5_pixelation_p12_5": {
+      "rows": 751,
+      "generated_now": 0,
+      "reused_existing": 751,
+      "missing_outputs": 0,
+      "blur_radius": 5.0,
+      "pixelation_scale": 0.125,
+      "transform_order": "gaussian_blur_r5 -> pixelation_p12_5",
+      "total_output_size_mb": 65.25,
+      "duration_seconds": 0.25,
+      "manifest_sha256": "da2ba869ea01fbdee4fe13dad34ef46d8f5c959c15bf87377bf70e39de2edef6",
+      "manifest_path": "perturbations/final_v2/manifests/image/test_blur_r5_pixelation_p12_5.csv"
+    }
+  }
+}

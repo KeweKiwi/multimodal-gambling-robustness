@@ -1,0 +1,72 @@
+{
+  "experiment_version": "final_v2",
+  "status": "locked_and_complete",
+  "counts": {
+    "models": 7,
+    "random_seeds": 5,
+    "test_conditions": 11,
+    "metric_evaluations": 385,
+    "prediction_rows": 289135,
+    "expected_metric_evaluations": 385,
+    "expected_prediction_rows": 289135
+  },
+  "critical_outputs": {
+    "training_protocol": {
+      "exists": true,
+      "file_size_mb": 0.001,
+      "sha256": "b30cb1bfe57375c6b328d66cdd272f580d031a11ae597df5077c8cf0a30b01ae",
+      "file_path": "results/final_v2/configs/final_training_protocol.json"
+    },
+    "clean_test_results": {
+      "exists": true,
+      "file_size_mb": 0.001,
+      "sha256": "a2a169a4fc3cfaeaf18da112b3efbeee8fdff7d66a9841b54894429fc651584e",
+      "file_path": "results/final_v2/summaries/clean_test_model_aggregate.csv"
+    },
+    "robustness_results": {
+      "exists": true,
+      "file_size_mb": 0.019,
+      "sha256": "7dbab1b5420d0516da9b6e57f8433f85ef7402f0c668aa5dccebbfb6b9928bf5",
+      "file_path": "results/final_v2/summaries/robustness_model_condition_aggregate.csv"
+    },
+    "main_robustness_results": {
+      "exists": true,
+      "file_size_mb": 0.001,
+      "sha256": "e5cab3de7c2a62c77c9af6a14d2e1d3e313c3ba1a38d29d73df78d5bb34be507",
+      "file_path": "results/final_v2/summaries/final_main_robustness_results.csv"
+    },
+    "paper_main_results": {
+      "exists": true,
+      "file_size_mb": 0.0,
+      "sha256": "4f08b662f7f970197e77a8d05459ed1bf19e6257558ff42d318d5ad9c758bd25",
+      "file_path": "results/final_v2/summaries/paper_ready_main_results.csv"
+    },
+    "research_question_summary": {
+      "exists": true,
+      "file_size_mb": 0.002,
+      "sha256": "4aa67b45264cf0e027e9f870ed8f1603e0b1cf33cf20a0eb7aea6440bb1853bc",
+      "file_path": "results/final_v2/summaries/paper_ready_research_question_summary.csv"
+    },
+    "paired_bootstrap": {
+      "exists": true,
+      "file_size_mb": 0.003,
+      "sha256": "084d4118ed6d730c4c1b84f698d7d5672f848929f5f894a8175a666878c8e270",
+      "file_path": "results/final_v2/bootstrap/paired_bootstrap_top3_primary_conditions.csv"
+    },
+    "platform_results": {
+      "exists": true,
+      "file_size_mb": 0.015,
+      "sha256": "791fe5088fe3b2d9e0903e8f9155a92ed153c273364db51ee9ee7a4147c607cc",
+      "file_path": "results/final_v2/per_platform/primary_conditions_platform_summary.csv"
+    },
+    "all_predictions": {
+      "exists": true,
+      "file_size_mb": 34.713,
+      "sha256": "c1c49866d2e8ed018e8eeb0dbedae2e4dc67ead7d5977ea8473ac9ba449a5c20",
+      "file_path": "results/final_v2/predictions/robustness_all_predictions.csv"
+    }
+  },
+  "primary_test_labels_changed": false,
+  "test_time_retraining": false,
+  "perturbation_threshold_tuning": false
+}

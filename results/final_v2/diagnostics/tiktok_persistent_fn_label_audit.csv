@@ -1,0 +1,7 @@
+id,platform,label,audit_category,possible_label_issue
+2875,TikTok,1.0,unrelated_content,yes
+2881,TikTok,1.0,implicit_gambling_context,uncertain
+2911,TikTok,1.0,implicit_gambling_context,uncertain
+2967,TikTok,1.0,discussion_or_complaint,yes
+2987,TikTok,1.0,discussion_or_complaint,yes
+3012,TikTok,1.0,ambiguous,yes

@@ -1,0 +1,62 @@
+{
+  "experiment_version": "final_v2",
+  "training_data": "clean_train_embeddings_only",
+  "validation_data": "clean_validation_embeddings",
+  "test_data": "clean_and_frozen_perturbed_test_sets",
+  "encoder_status": "frozen",
+  "text_encoder": "intfloat/multilingual-e5-large",
+  "image_encoder": "google/siglip2-so400m-patch14-384",
+  "text_embedding_dimension": 1024,
+  "image_embedding_dimension": 1152,
+  "random_seeds": [
+    42,
+    52,
+    62,
+    72,
+    82
+  ],
+  "batch_size": 64,
+  "maximum_epochs": 50,
+  "early_stopping": {
+    "monitor": "validation_loss",
+    "patience": 5,
+    "restore_best_weights": true
+  },
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "loss": "BCEWithLogitsLoss",
+  "class_weighting": null,
+  "hidden_dimension": 256,
+  "projection_dimension": 512,
+  "dropout_rate": 0.3,
+  "threshold_selection": {
+    "source": "clean_validation_only",
+    "objective": "maximum_positive_class_f1",
+    "minimum_threshold": 0.05,
+    "maximum_threshold": 0.95,
+    "step": 0.01
+  },
+  "primary_metric": "positive_class_f1",
+  "secondary_metrics": [
+    "accuracy",
+    "precision",
+    "recall",
+    "roc_auc",
+    "pr_auc",
+    "brier_score",
+    "confusion_matrix"
+  ],
+  "models": [
+    "text_only_mlp",
+    "image_only_mlp",
+    "average_logit_fusion",
+    "learnable_weighted_logit_fusion",
+    "raw_concatenation_fusion",
+    "projection_fusion",
+    "contrastive_similarity_fusion"
+  ],
+  "test_time_retraining": false,
+  "perturbation_specific_threshold": false,
+  "protocol_status": "locked"
+}

@@ -1,0 +1,1129 @@
+[
+  {
+    "source": "splits/validation.csv",
+    "published": "splits/validation.csv",
+    "transformation": "CSV projection dropping ['text_caption', 'normalized_caption']; relative paths; numeric strings preserved",
+    "source_sha256": "cb5996967e5ed3106234cf863031378bedefc114b657d1c4a5ba4ef782be968d",
+    "published_sha256": "ec0b3a8e8d5ab9fb70b71e407385905a89e3e8527e92ad8d80ed6cb8d6d81508"
+  },
+  {
+    "source": "splits/split_manifest.csv",
+    "published": "splits/split_manifest.csv",
+    "transformation": "CSV projection dropping ['text_caption', 'normalized_caption']; relative paths; numeric strings preserved",
+    "source_sha256": "767d106d78a12fa02860336ccaba3b2621fbf4640b02b01035cf3252c3422888",
+    "published_sha256": "4677476f5c7c4e548ea51c571c8e4eb972bac91fe2da76b170785e56f1618c6f"
+  },
+  {
+    "source": "splits/test.csv",
+    "published": "splits/test.csv",
+    "transformation": "CSV projection dropping ['text_caption', 'normalized_caption']; relative paths; numeric strings preserved",
+    "source_sha256": "a4b77de7c21f080450c9650a8541662137d91a799c4e284db23f45af4157b871",
+    "published_sha256": "86a726c6771120ebb29508fab8e8709a2264bfb3a0e03fa9684935e205c8d6b3"
+  },
+  {
+    "source": "splits/train.csv",
+    "published": "splits/train.csv",
+    "transformation": "CSV projection dropping ['text_caption', 'normalized_caption']; relative paths; numeric strings preserved",
+    "source_sha256": "fb07b4b0f8ae410364689a184dcf90b40471e84d610938e8dc008a277a22ad03",
+    "published_sha256": "efd7eb29fa0a8596a64d0b6e5dd8eaf26d23cb00725949bccaeade0d2774529b"
+  },
+  {
+    "source": "results/final_v2/bootstrap/paired_bootstrap_top3_primary_conditions.csv",
+    "published": "results/final_v2/bootstrap/paired_bootstrap_top3_primary_conditions.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "084d4118ed6d730c4c1b84f698d7d5672f848929f5f894a8175a666878c8e270",
+    "published_sha256": "084d4118ed6d730c4c1b84f698d7d5672f848929f5f894a8175a666878c8e270"
+  },
+  {
+    "source": "results/final_v2/per_platform/robustness_platform_aggregate.csv",
+    "published": "results/final_v2/per_platform/robustness_platform_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "6d7a31b15a31dff1b23a57d666195b36dc35b388619e1528c9ed28b4bfc06fc9",
+    "published_sha256": "6d7a31b15a31dff1b23a57d666195b36dc35b388619e1528c9ed28b4bfc06fc9"
+  },
+  {
+    "source": "results/final_v2/per_platform/joint_platform_robustness_drop.csv",
+    "published": "results/final_v2/per_platform/joint_platform_robustness_drop.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "8ea83e110a6f5dfbcae7856f692720b628b0655863ce27289c8292bdb5305bf5",
+    "published_sha256": "8ea83e110a6f5dfbcae7856f692720b628b0655863ce27289c8292bdb5305bf5"
+  },
+  {
+    "source": "results/final_v2/per_platform/best_model_per_joint_platform.csv",
+    "published": "results/final_v2/per_platform/best_model_per_joint_platform.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "efc8f9bfdfce6754d218d2baa4a8be076df199d26f4429d9269c3c31041b595c",
+    "published_sha256": "efc8f9bfdfce6754d218d2baa4a8be076df199d26f4429d9269c3c31041b595c"
+  },
+  {
+    "source": "results/final_v2/per_platform/primary_conditions_platform_summary.csv",
+    "published": "results/final_v2/per_platform/primary_conditions_platform_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "791fe5088fe3b2d9e0903e8f9155a92ed153c273364db51ee9ee7a4147c607cc",
+    "published_sha256": "791fe5088fe3b2d9e0903e8f9155a92ed153c273364db51ee9ee7a4147c607cc"
+  },
+  {
+    "source": "results/final_v2/per_platform/robustness_platform_per_seed.csv",
+    "published": "results/final_v2/per_platform/robustness_platform_per_seed.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "400343af31f0cfc198ad0593f7dfacd126ecdb3028c1a8447109328ee4411479",
+    "published_sha256": "400343af31f0cfc198ad0593f7dfacd126ecdb3028c1a8447109328ee4411479"
+  },
+  {
+    "source": "results/final_v2/figures/figure_3_platform_clean_vs_j3.png",
+    "published": "results/final_v2/figures/figure_3_platform_clean_vs_j3.png",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "afc3d238e26e00972e693e4fe0a7373546ff166c143ad83c8fa26064e5e807df",
+    "published_sha256": "afc3d238e26e00972e693e4fe0a7373546ff166c143ad83c8fa26064e5e807df"
+  },
+  {
+    "source": "results/final_v2/figures/figure_2_robustness_top3.png",
+    "published": "results/final_v2/figures/figure_2_robustness_top3.png",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "c87e703751867b8585ff3c2e5556b6357363da2c735b35e8e3896f7c45c84c2e",
+    "published_sha256": "c87e703751867b8585ff3c2e5556b6357363da2c735b35e8e3896f7c45c84c2e"
+  },
+  {
+    "source": "results/final_v2/configs/text_obfuscation_test_report.json",
+    "published": "results/final_v2/configs/text_obfuscation_test_report.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "585ef289d3f9e53f18be5bf8592793615adda4b3c3eadc6cb5138fd661b4cdff",
+    "published_sha256": "1ff2313bd2d5b2b43b4fa9d76ce07f4b8d33f3f1d8b6d6cf2cf02d4b932cfef2"
+  },
+  {
+    "source": "results/final_v2/configs/image_only_mlp_architecture.json",
+    "published": "results/final_v2/configs/image_only_mlp_architecture.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "506df4d4133de710343022424b4962064269eced8f41e6660c89bcafdf9cc951",
+    "published_sha256": "d36fcba5581c41ce4f6f61af78b87d4597c5e5aa0144c3a91785b66c284f9e48"
+  },
+  {
+    "source": "results/final_v2/configs/runtime_environment.json",
+    "published": "results/final_v2/configs/runtime_environment.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "63c46990fd4e07d4a6e051ae552871416b8ae842d363171818f655a38d3e34f5",
+    "published_sha256": "fd75a3f8b2ef49c4afe868f0032287d823df6a55b44d5f4f4d264c528639def1"
+  },
+  {
+    "source": "results/final_v2/configs/image_corruption_generation_report.json",
+    "published": "results/final_v2/configs/image_corruption_generation_report.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "5d7dd2a4226c261770b8a7050b14d27d16521fd0ff8d272ae6495d083464f7a6",
+    "published_sha256": "d0351933163bb1c2a15e11a6fef544821730890dccab50674ab9e9c8671401c3"
+  },
+  {
+    "source": "results/final_v2/configs/text_only_mlp_architecture.json",
+    "published": "results/final_v2/configs/text_only_mlp_architecture.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "6a71bc1ca558335807e15d91ce8a4a31291fc9903d5fc8d61dbf2442112d15f6",
+    "published_sha256": "656dd11c7bb2867d18eaf892b6f20a708cb739f18194605a695d827ed52a2497"
+  },
+  {
+    "source": "results/final_v2/configs/contrastive_similarity_fusion_config.json",
+    "published": "results/final_v2/configs/contrastive_similarity_fusion_config.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "154e9441b08aeaff11f5b5ad7ac4a452951f9a016ca1b20f6bc6e56be2447e29",
+    "published_sha256": "bd5d87f4d41dbc03dcc645e0f5b4428110e01401be923b548f3376bb835294c6"
+  },
+  {
+    "source": "results/final_v2/configs/average_logit_fusion_config.json",
+    "published": "results/final_v2/configs/average_logit_fusion_config.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "ee381d667654a563ec25eca4123495a6e15d8c94584d536a2a4b48a1a5366ef8",
+    "published_sha256": "25e16dc5401971eed2bde790ddf9375571821c02f6d30cdaf517616792f271f0"
+  },
+  {
+    "source": "results/final_v2/configs/text_obfuscated_embedding_report.json",
+    "published": "results/final_v2/configs/text_obfuscated_embedding_report.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "dc2479a47dd9c7ec959af3d308d167edc5beef1ec0ee9dd924c2d7e1b5dd0c1a",
+    "published_sha256": "f02cce950b8f2c8d580748d1744cda637d93fd977e2dfc3d0763acf7e06a6400"
+  },
+  {
+    "source": "results/final_v2/configs/clean_embedding_validation.json",
+    "published": "results/final_v2/configs/clean_embedding_validation.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "02690045626b1e716a3f3cad0a86979f61361b189e85a2958e54ff9c4cf28d17",
+    "published_sha256": "131297a6d6400ae7cac5291bab8a572c0be97dbae9a6ff077a8a12d69aca4281"
+  },
+  {
+    "source": "results/final_v2/configs/final_research_question_findings.json",
+    "published": "results/final_v2/configs/final_research_question_findings.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "3ea2e2c214896f8eacb59fd2a48137beb18a4dfa4a216811cab1fa1093d17c72",
+    "published_sha256": "4f95c573f4b538f3307f52083929cca7db1253a5854cccca16587f5c6cf721b5"
+  },
+  {
+    "source": "results/final_v2/configs/siglip2_clean_reproduction_report.json",
+    "published": "results/final_v2/configs/siglip2_clean_reproduction_report.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "174c1f43db7e0de066ab36d2ca7e755454caacc240acb3a2e14a3348c2a7c809",
+    "published_sha256": "6762458ea75fc04136f248b3a6e0dc82adfe062a60f46455f7e818244257c7cd"
+  },
+  {
+    "source": "results/final_v2/configs/final_training_protocol.json",
+    "published": "results/final_v2/configs/final_training_protocol.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "b30cb1bfe57375c6b328d66cdd272f580d031a11ae597df5077c8cf0a30b01ae",
+    "published_sha256": "bc132726f034ce2a795df86f745a2e3c701b9ed5b1f3bc3cd3e38261aa3b946c"
+  },
+  {
+    "source": "results/final_v2/configs/text_obfuscation_lexicon.json",
+    "published": "results/final_v2/configs/text_obfuscation_lexicon.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "3d1ec9707ae9ecffc152e29e61da9bbca88396d79f406b71cc23ae23b8cdd7a1",
+    "published_sha256": "edefb02b1583d6ba96939c5383947b6fa80a09825a5e04e8304fd6d3308a2460"
+  },
+  {
+    "source": "results/final_v2/configs/split_validation.json",
+    "published": "results/final_v2/configs/split_validation.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "aaeb280ba7152441c47eb08095b416fd6c02af8ef7d6ed492a44cf770e4f1d83",
+    "published_sha256": "879a14c3494284178c9606e4ff757274715556d73949f20761870c8a512c1419"
+  },
+  {
+    "source": "results/final_v2/configs/robustness_test_conditions.json",
+    "published": "results/final_v2/configs/robustness_test_conditions.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "8a245623e9aa1e9e90e2ae4e995a7dfe13c1a66a14d796e9905fe7280a5fd5d5",
+    "published_sha256": "ce0eedadcf4807b002a7af69bff5e5ed3f3ea9ce33b7169d9f9bb2c36d5ac422"
+  },
+  {
+    "source": "results/final_v2/configs/text_obfuscation_matcher_config.json",
+    "published": "results/final_v2/configs/text_obfuscation_matcher_config.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "10a7e41fbb45067d975e4a0472a19c95b43ac7fb6f651f8a096401fe08fb0006",
+    "published_sha256": "23d714192fba5611885cbfc2f67a5a38de1f99b9de22dd06aec579267bf9a040"
+  },
+  {
+    "source": "results/final_v2/configs/final_experiment_integrity_report.json",
+    "published": "results/final_v2/configs/final_experiment_integrity_report.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "ac79dc211aa3799b51acac7b8c4596182c616cce8d2a07d98e4e465a5ef9edb6",
+    "published_sha256": "ae2c2f5c6fd008718f67414cad84e59907f26bea870eff0d5b685d31facf8745"
+  },
+  {
+    "source": "results/final_v2/configs/perturbed_image_embedding_report.json",
+    "published": "results/final_v2/configs/perturbed_image_embedding_report.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "2d04e4a66ba14779f11618a3858a5f886cf82cf9aa833765b0cca840b0284b1e",
+    "published_sha256": "5907761f64dfccbf6a78230a24b114e738154d5c630b7881a413858f2349ba55"
+  },
+  {
+    "source": "results/final_v2/configs/text_obfuscation_matcher_map.json",
+    "published": "results/final_v2/configs/text_obfuscation_matcher_map.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "7333ad5e37c04022f3927c9f2355af01d7e05f8d8c605e703041da6940828aa4",
+    "published_sha256": "1575e372d50244d8eb476b6ad865b9e0ae21c442a8a7831b048b84ec14069e89"
+  },
+  {
+    "source": "results/final_v2/configs/final_experimental_findings.json",
+    "published": "results/final_v2/configs/final_experimental_findings.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "5e8e783efa09e65a30799e95300d451aa48ae87ca71db90d5161d6988112bc27",
+    "published_sha256": "22ba7e85d8e4312c974521dde7d5ef716ba6e1b50f5b68dffad02eafd97caa9f"
+  },
+  {
+    "source": "results/final_v2/configs/image_corruption_config.json",
+    "published": "results/final_v2/configs/image_corruption_config.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "035042e8eefccd01dfdebfc3f76569cad6bae37be00a699af80e949df53d0bf7",
+    "published_sha256": "66490b7a03464894de623cd79ce58155a869d645ca205235a46344b5ade47052"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_persistent_false_negative_summary.csv",
+    "published": "results/final_v2/diagnostics/tiktok_persistent_false_negative_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "99c4a99ccb65b7b37168d34add4cfa8a327992a74e65d9c23cb69f831ed72947",
+    "published_sha256": "99c4a99ccb65b7b37168d34add4cfa8a327992a74e65d9c23cb69f831ed72947"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_82.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "576ce7fcd3684a3d8fc32aff289d787918fe6b6bd50c9642b8e9a32e04bd131c",
+    "published_sha256": "576ce7fcd3684a3d8fc32aff289d787918fe6b6bd50c9642b8e9a32e04bd131c"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_62.csv",
+    "published": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "34cccc35fd13e892ead9942ad65b74e86eaeb34564ac9c12ecd2111afc0c28e1",
+    "published_sha256": "34cccc35fd13e892ead9942ad65b74e86eaeb34564ac9c12ecd2111afc0c28e1"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_72.csv",
+    "published": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "956f677286e5b2f2a2a7260ba05e7a2144bcb066808b1cbc2ebdf690f3c3f0d4",
+    "published_sha256": "956f677286e5b2f2a2a7260ba05e7a2144bcb066808b1cbc2ebdf690f3c3f0d4"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_42.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "1942f49151f7c7fe059cf7542550d70565a74e79a5e8203c329381b6456a155e",
+    "published_sha256": "1942f49151f7c7fe059cf7542550d70565a74e79a5e8203c329381b6456a155e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_52.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "588cced697ee1951b7f7e4ea812cf7bc3d0356382712803e208438f230ee39e9",
+    "published_sha256": "588cced697ee1951b7f7e4ea812cf7bc3d0356382712803e208438f230ee39e9"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_62.csv",
+    "published": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "19bef793cd07ebda06e883eb5a8a758e7dbd85f6efd2b7ee9478c13f18b7acb4",
+    "published_sha256": "19bef793cd07ebda06e883eb5a8a758e7dbd85f6efd2b7ee9478c13f18b7acb4"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_72.csv",
+    "published": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "7edd1084ff732c6686315ad5163de86877e20d4efad187f690701834be933d27",
+    "published_sha256": "7edd1084ff732c6686315ad5163de86877e20d4efad187f690701834be933d27"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_projection_fusion_seed_72.csv",
+    "published": "results/final_v2/diagnostics/training_history_projection_fusion_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "828ccfab42ccdb7ce3f7a526b8aeb92ea4899d665d2eaf82b026693aa041ca2f",
+    "published_sha256": "828ccfab42ccdb7ce3f7a526b8aeb92ea4899d665d2eaf82b026693aa041ca2f"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_42.csv",
+    "published": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "8f53ed28b98f106c77b03b6712c014f15e1f20cb1432419f032679c81a9cef3e",
+    "published_sha256": "8f53ed28b98f106c77b03b6712c014f15e1f20cb1432419f032679c81a9cef3e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_62.csv",
+    "published": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "0c1dd5d1fe899bbb27d7bf50c7fced47d8fcf4f864f23916c25a486e26acf610",
+    "published_sha256": "0c1dd5d1fe899bbb27d7bf50c7fced47d8fcf4f864f23916c25a486e26acf610"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_62.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "407ef7d3ebfc3bf830567472f7be732ad1a7bdd1985d5248be7d021423955fc1",
+    "published_sha256": "407ef7d3ebfc3bf830567472f7be732ad1a7bdd1985d5248be7d021423955fc1"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_label_audit_category_summary.csv",
+    "published": "results/final_v2/diagnostics/tiktok_label_audit_category_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "61c13efc2d85323b0a8f815b7c67b624a027ea92c2d579de3086afbd034dc930",
+    "published_sha256": "61c13efc2d85323b0a8f815b7c67b624a027ea92c2d579de3086afbd034dc930"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_62.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "175d68b2c291eef4c36f476edf4df0f9bb8756670da4f981b9d32359f31d3157",
+    "published_sha256": "175d68b2c291eef4c36f476edf4df0f9bb8756670da4f981b9d32359f31d3157"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_62.csv",
+    "published": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "11e2b882cbd30a414d5d7bd9ab2a55fd993a7fe4a451ccb8933bf65a78a0fd87",
+    "published_sha256": "11e2b882cbd30a414d5d7bd9ab2a55fd993a7fe4a451ccb8933bf65a78a0fd87"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_82.csv",
+    "published": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "42ebb46c99e94d9f1cb03affd33d2c6425d292611409268958119901a65e6888",
+    "published_sha256": "42ebb46c99e94d9f1cb03affd33d2c6425d292611409268958119901a65e6888"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_72.csv",
+    "published": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "85d383c9ab211d5a0f7a5aafc1c422616f6d7c1c8751b2cfe8b2fc99935a6ad6",
+    "published_sha256": "85d383c9ab211d5a0f7a5aafc1c422616f6d7c1c8751b2cfe8b2fc99935a6ad6"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_72.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "edf4cbb991056aafaa19fd7c7472f055c8b1a8610ea8c297e5e51f6de684d94e",
+    "published_sha256": "edf4cbb991056aafaa19fd7c7472f055c8b1a8610ea8c297e5e51f6de684d94e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_72.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "5f671ab6a9f3e36061fe5ffc182a20b66beae83d92800cb61f84f69feeb1e49e",
+    "published_sha256": "5f671ab6a9f3e36061fe5ffc182a20b66beae83d92800cb61f84f69feeb1e49e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_top3_confusion_summary.csv",
+    "published": "results/final_v2/diagnostics/tiktok_top3_confusion_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "1c16c76cb4ace99411353251652c54afc16c462623dc33a72daab0ff0fcac278",
+    "published_sha256": "1c16c76cb4ace99411353251652c54afc16c462623dc33a72daab0ff0fcac278"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_72.csv",
+    "published": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "a7f39594bcfe16acba0a93b9526971e6fefe99e74d72d613066b6791e6aad7e1",
+    "published_sha256": "a7f39594bcfe16acba0a93b9526971e6fefe99e74d72d613066b6791e6aad7e1"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_52.csv",
+    "published": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "b48a56be9a0a7a1697c6383454a4339df0f79430ba0c5b499f2a32578dbfbb7d",
+    "published_sha256": "b48a56be9a0a7a1697c6383454a4339df0f79430ba0c5b499f2a32578dbfbb7d"
+  },
+  {
+    "source": "results/final_v2/diagnostics/text_obfuscation_matcher_unit_tests.csv",
+    "published": "results/final_v2/diagnostics/text_obfuscation_matcher_unit_tests.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "7640df778a3bde78955788539db21da0e597a3e244909d792d84d64d83e4090d",
+    "published_sha256": "7640df778a3bde78955788539db21da0e597a3e244909d792d84d64d83e4090d"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_projection_fusion_seed_62.csv",
+    "published": "results/final_v2/diagnostics/training_history_projection_fusion_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "5a2ba3a7257a0a40041951cb42f98579a27d57253301c1bf9f0163125ea3c26e",
+    "published_sha256": "5a2ba3a7257a0a40041951cb42f98579a27d57253301c1bf9f0163125ea3c26e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_62.csv",
+    "published": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "e643823c62e47e300bbf0136be6eeaa91ab89b38231757185e83fa19e69ca9d0",
+    "published_sha256": "e643823c62e47e300bbf0136be6eeaa91ab89b38231757185e83fa19e69ca9d0"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_82.csv",
+    "published": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "ee9c8cd522e9b754dbe5967f6ea62e0b77c8dc8cae3b7e629074865c8c97751e",
+    "published_sha256": "ee9c8cd522e9b754dbe5967f6ea62e0b77c8dc8cae3b7e629074865c8c97751e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_82.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "f67c13c7fdac84432c334436e248d29618ddf7ef9fe2e0f743e509b5be561ce9",
+    "published_sha256": "f67c13c7fdac84432c334436e248d29618ddf7ef9fe2e0f743e509b5be561ce9"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_projection_fusion_seed_52.csv",
+    "published": "results/final_v2/diagnostics/training_history_projection_fusion_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "5224444fc0985ab716a91176837f8987269cac64d9c017583340b4810da1764f",
+    "published_sha256": "5224444fc0985ab716a91176837f8987269cac64d9c017583340b4810da1764f"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_82.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "a8a1bcc9fc25d00af339a984d0a4a61de6d46489140f3cbfb46ef6af90715bdf",
+    "published_sha256": "a8a1bcc9fc25d00af339a984d0a4a61de6d46489140f3cbfb46ef6af90715bdf"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_82.csv",
+    "published": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "cb88166864d3b03ed0749ecce34c767a7c5db4ebe69fb9d3f4dfb88efe8aee70",
+    "published_sha256": "cb88166864d3b03ed0749ecce34c767a7c5db4ebe69fb9d3f4dfb88efe8aee70"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_42.csv",
+    "published": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "a405293d0aacc377f99b72f0e59ea7ece8c5c801a9c41f886e8551d1a1e4c771",
+    "published_sha256": "a405293d0aacc377f99b72f0e59ea7ece8c5c801a9c41f886e8551d1a1e4c771"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_42.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "b96c5f6218289444e5b51ce28c3338c456f9e7a7a9abacef6147f3d4867271f7",
+    "published_sha256": "b96c5f6218289444e5b51ce28c3338c456f9e7a7a9abacef6147f3d4867271f7"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_42.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "90ccdef8ac611a920df4d93aade1e490bc96c03ab4f2f0cd8f859d9b5c886730",
+    "published_sha256": "90ccdef8ac611a920df4d93aade1e490bc96c03ab4f2f0cd8f859d9b5c886730"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_42.csv",
+    "published": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "e7578a42e16e3163c6ef6fc9253bc5e56d47e8f97199256b85675e419785bc93",
+    "published_sha256": "e7578a42e16e3163c6ef6fc9253bc5e56d47e8f97199256b85675e419785bc93"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_52.csv",
+    "published": "results/final_v2/diagnostics/training_history_contrastive_similarity_fusion_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "5a05f9972f42b67ddb93413e930990ffe669d7d823fbf4cca2289f7bc6a69ebc",
+    "published_sha256": "5a05f9972f42b67ddb93413e930990ffe669d7d823fbf4cca2289f7bc6a69ebc"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_projection_fusion_seed_82.csv",
+    "published": "results/final_v2/diagnostics/training_history_projection_fusion_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "22081997cfa9193ba2704a964c19447ba614cfcd9f99deacb747df476fc3f30b",
+    "published_sha256": "22081997cfa9193ba2704a964c19447ba614cfcd9f99deacb747df476fc3f30b"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_52.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_text_only_mlp_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "6121ed0577e8eece52d44f129421dd9db6ca61c92bf3d3a43e039243d053ee42",
+    "published_sha256": "6121ed0577e8eece52d44f129421dd9db6ca61c92bf3d3a43e039243d053ee42"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_label_audit_overview.csv",
+    "published": "results/final_v2/diagnostics/tiktok_label_audit_overview.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "45354529e15b44f9865915e12923d90a4adaa9c8c22ed2559a15a859c00878f8",
+    "published_sha256": "45354529e15b44f9865915e12923d90a4adaa9c8c22ed2559a15a859c00878f8"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_52.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_image_only_mlp_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "bd2dc07e29ee0661fd473df5db65d1ca4de83edfb5a12822b9afdf3ea1925b85",
+    "published_sha256": "bd2dc07e29ee0661fd473df5db65d1ca4de83edfb5a12822b9afdf3ea1925b85"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_52.csv",
+    "published": "results/final_v2/diagnostics/training_history_raw_concatenation_fusion_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "5cfec67ef9c7e67d907e79ee6d86cded0d44593325e569afd3af654375b15f8c",
+    "published_sha256": "5cfec67ef9c7e67d907e79ee6d86cded0d44593325e569afd3af654375b15f8c"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_projection_fusion_seed_42.csv",
+    "published": "results/final_v2/diagnostics/training_history_projection_fusion_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "8cad31bdb4ad91736579e2de9956cfc18c7f292bb4bb7d9e7efc00e5ea790aa4",
+    "published_sha256": "8cad31bdb4ad91736579e2de9956cfc18c7f292bb4bb7d9e7efc00e5ea790aa4"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_72.csv",
+    "published": "results/final_v2/diagnostics/training_history_learnable_weighted_logit_fusion_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "0b1b6398a3f44d2d83784f23c477fd3bf018ea3784ba03d83e0989b021f8dced",
+    "published_sha256": "0b1b6398a3f44d2d83784f23c477fd3bf018ea3784ba03d83e0989b021f8dced"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_42.csv",
+    "published": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "6d68ef330c9872c5f75d421399bbf023cd29649911818405b00fa33ed4753379",
+    "published_sha256": "6d68ef330c9872c5f75d421399bbf023cd29649911818405b00fa33ed4753379"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_persistent_fn_label_audit.csv",
+    "published": "results/final_v2/diagnostics/tiktok_persistent_fn_label_audit.csv",
+    "transformation": "CSV projection dropping ['text_caption', 'image_path', 'explicit_promotion_evidence', 'gambling_context_evidence', 'reviewer_notes']; relative paths; numeric strings preserved",
+    "source_sha256": "58bc54f13f2b46f20ad9c642b66fb834830bbb4e5f50de983d2b0c4b023e0e79",
+    "published_sha256": "1347fec6366a48da25728c9699a5baa5ab73b8b4f906000d8d886ed47107c1c0"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_82.csv",
+    "published": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "65e06620ed25fd69c15e840ad9195d2b39be3a55f60416cb0408858c5e2e253e",
+    "published_sha256": "65e06620ed25fd69c15e840ad9195d2b39be3a55f60416cb0408858c5e2e253e"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_62.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_62.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "c4dad1bfd7473d6277c4a85e770cc58879b4b1e64493633e8ce4c59533206c0a",
+    "published_sha256": "c4dad1bfd7473d6277c4a85e770cc58879b4b1e64493633e8ce4c59533206c0a"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_52.csv",
+    "published": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "817d8c51c8e8b7f48822a755719af4581cdfaaf523db9d1da1e9750ec40eaa57",
+    "published_sha256": "817d8c51c8e8b7f48822a755719af4581cdfaaf523db9d1da1e9750ec40eaa57"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_label_audit_issue_summary.csv",
+    "published": "results/final_v2/diagnostics/tiktok_label_audit_issue_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "d5ccf2230a7a2c776a2bb97785a5aae454a93036b0e2b98b5f62d3103760479f",
+    "published_sha256": "d5ccf2230a7a2c776a2bb97785a5aae454a93036b0e2b98b5f62d3103760479f"
+  },
+  {
+    "source": "results/final_v2/diagnostics/tiktok_persistent_false_negatives.csv",
+    "published": "results/final_v2/diagnostics/tiktok_persistent_false_negatives.csv",
+    "transformation": "CSV projection dropping ['text_caption', 'image_path', 'obfuscated_caption']; relative paths; numeric strings preserved",
+    "source_sha256": "6ead809625ce6a5aa0c3d006e0d772e42047801277c95cb7c311f3b025f164c2",
+    "published_sha256": "8b980bc7dfe7405684da494e47782d10e1397cff8bf0b47543c4999215124cab"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_42.csv",
+    "published": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_42.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "cf6ef0256cdf5bcd79cc9b5c0d802afd9f52219e81980bfa0e6278d70c0f96f8",
+    "published_sha256": "cf6ef0256cdf5bcd79cc9b5c0d802afd9f52219e81980bfa0e6278d70c0f96f8"
+  },
+  {
+    "source": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_72.csv",
+    "published": "results/final_v2/diagnostics/threshold_search_average_logit_fusion_seed_72.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "8d2bac55107b88b13a06b9793bbaebbe0df339a9f98b1523370267bd2f0debee",
+    "published_sha256": "8d2bac55107b88b13a06b9793bbaebbe0df339a9f98b1523370267bd2f0debee"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_82.csv",
+    "published": "results/final_v2/diagnostics/training_history_text_only_mlp_seed_82.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "7357675d54e57529bc0dbee78315b015c5a1b02b97b778c74044224ada70dd1a",
+    "published_sha256": "7357675d54e57529bc0dbee78315b015c5a1b02b97b778c74044224ada70dd1a"
+  },
+  {
+    "source": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_52.csv",
+    "published": "results/final_v2/diagnostics/training_history_image_only_mlp_seed_52.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "fb19ee983d1ec7ffe351a724d27b249c0fecbcae10b3c414fa977fb447bb22ac",
+    "published_sha256": "fb19ee983d1ec7ffe351a724d27b249c0fecbcae10b3c414fa977fb447bb22ac"
+  },
+  {
+    "source": "results/final_v2/summaries/image_only_mlp_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/image_only_mlp_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "2a9c7735d0c6e184b489b47f3b1996343d141c6d4ee96c69a6670d917c969237",
+    "published_sha256": "2a9c7735d0c6e184b489b47f3b1996343d141c6d4ee96c69a6670d917c969237"
+  },
+  {
+    "source": "results/final_v2/summaries/perturbed_image_embedding_audit.csv",
+    "published": "results/final_v2/summaries/perturbed_image_embedding_audit.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "d2f53ccd60ea72b301d285a694d193330f593c081d656441d66c7ec0ea83f75d",
+    "published_sha256": "62694bd8705b1172d3e7db5221dec39fe804f80bbb58a3a6248a2198ab2078da"
+  },
+  {
+    "source": "results/final_v2/summaries/final_main_robustness_results.csv",
+    "published": "results/final_v2/summaries/final_main_robustness_results.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "e5cab3de7c2a62c77c9af6a14d2e1d3e313c3ba1a38d29d73df78d5bb34be507",
+    "published_sha256": "e5cab3de7c2a62c77c9af6a14d2e1d3e313c3ba1a38d29d73df78d5bb34be507"
+  },
+  {
+    "source": "results/final_v2/summaries/single_corruption_severity_summary.csv",
+    "published": "results/final_v2/summaries/single_corruption_severity_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "799b0382f51d77c4ce74af34ebd07f6722b55c55b18a4770eef52fe27e26e328",
+    "published_sha256": "799b0382f51d77c4ce74af34ebd07f6722b55c55b18a4770eef52fe27e26e328"
+  },
+  {
+    "source": "results/final_v2/summaries/image_corruption_generation_summary.csv",
+    "published": "results/final_v2/summaries/image_corruption_generation_summary.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "80ca1a3703f54df3325e5762470de13862f013762a58ad1415f8f5b93378d7f8",
+    "published_sha256": "55236ae9129d2f9956cb11cf330260af9be8c7fb19556f64a3fab9a6a11d363a"
+  },
+  {
+    "source": "results/final_v2/summaries/robustness_worst_case_summary.csv",
+    "published": "results/final_v2/summaries/robustness_worst_case_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "981f55c65a06abcf31975f87dfe691c02ce72cb8c728e0461fae348f6a057897",
+    "published_sha256": "981f55c65a06abcf31975f87dfe691c02ce72cb8c728e0461fae348f6a057897"
+  },
+  {
+    "source": "results/final_v2/summaries/average_logit_fusion_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/average_logit_fusion_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "ca4f1c646a267fb838936de59f5c419fe31effffaa3adaaca5dfe1c19857c515",
+    "published_sha256": "ca4f1c646a267fb838936de59f5c419fe31effffaa3adaaca5dfe1c19857c515"
+  },
+  {
+    "source": "results/final_v2/summaries/contrastive_similarity_fusion_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/contrastive_similarity_fusion_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "7d29327705b86f48a93736e4a3d6ccbb8fb924a9a90f929caa5fb0a3eb277ab1",
+    "published_sha256": "7d29327705b86f48a93736e4a3d6ccbb8fb924a9a90f929caa5fb0a3eb277ab1"
+  },
+  {
+    "source": "results/final_v2/summaries/image_corruption_severity_results.csv",
+    "published": "results/final_v2/summaries/image_corruption_severity_results.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "11c569efef8d561cc7730d74f225d7f3659f332c8eaa4c0c81e7acd53afce124",
+    "published_sha256": "11c569efef8d561cc7730d74f225d7f3659f332c8eaa4c0c81e7acd53afce124"
+  },
+  {
+    "source": "results/final_v2/summaries/projection_fusion_validation_summary.csv",
+    "published": "results/final_v2/summaries/projection_fusion_validation_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "78f50c86ad3059e2311ac6655ee2657e13a705d096a2f0528b56ed7839cbfdbb",
+    "published_sha256": "78f50c86ad3059e2311ac6655ee2657e13a705d096a2f0528b56ed7839cbfdbb"
+  },
+  {
+    "source": "results/final_v2/summaries/image_corruption_final_qc_summary.csv",
+    "published": "results/final_v2/summaries/image_corruption_final_qc_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "53bc219dabeab2b971b2d4a58deea16dba693f7a8ae56960d58f80240cd49f18",
+    "published_sha256": "53bc219dabeab2b971b2d4a58deea16dba693f7a8ae56960d58f80240cd49f18"
+  },
+  {
+    "source": "results/final_v2/summaries/text_only_mlp_training_summary.csv",
+    "published": "results/final_v2/summaries/text_only_mlp_training_summary.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "b591d5742192ff81ae8f6cba172171036f9e650f292171277e61a030bac8d320",
+    "published_sha256": "f78806f967f266a176558343bc54187fec16bdd15df1caee9c4ec17b8ea5bdc6"
+  },
+  {
+    "source": "results/final_v2/summaries/text_only_mlp_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/text_only_mlp_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "88523900894e10016a9f92db5e0c94e833f8103d7c27c299584ff4f607230337",
+    "published_sha256": "88523900894e10016a9f92db5e0c94e833f8103d7c27c299584ff4f607230337"
+  },
+  {
+    "source": "results/final_v2/summaries/robustness_model_condition_aggregate.csv",
+    "published": "results/final_v2/summaries/robustness_model_condition_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "7dbab1b5420d0516da9b6e57f8433f85ef7402f0c668aa5dccebbfb6b9928bf5",
+    "published_sha256": "7dbab1b5420d0516da9b6e57f8433f85ef7402f0c668aa5dccebbfb6b9928bf5"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscated_embedding_audit.csv",
+    "published": "results/final_v2/summaries/text_obfuscated_embedding_audit.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "870d796e2f85cdd5711ad6294e825c66855382f9a27d6a57dbd3ab344feb8333",
+    "published_sha256": "e741b37cc81fee1082dc55f89ca47d74caa2c20d19a5dbab0da0f7aa4e824464"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscation_approved_compound_summary.csv",
+    "published": "results/final_v2/summaries/text_obfuscation_approved_compound_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "5d3b7cd36df15fa552a3960627373013bd1261dee7113e8a6783e94abb329381",
+    "published_sha256": "5d3b7cd36df15fa552a3960627373013bd1261dee7113e8a6783e94abb329381"
+  },
+  {
+    "source": "results/final_v2/summaries/raw_concatenation_fusion_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/raw_concatenation_fusion_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "233bdbb7b7334afba9c8b54517c3fade1fa6cf726c0fe0daea0fdda8327c03ec",
+    "published_sha256": "233bdbb7b7334afba9c8b54517c3fade1fa6cf726c0fe0daea0fdda8327c03ec"
+  },
+  {
+    "source": "results/final_v2/summaries/final_model_selection_summary.csv",
+    "published": "results/final_v2/summaries/final_model_selection_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "716128a44d513b84b97fa20b8845661f41489a7fd4217288127b393c37e3ca2d",
+    "published_sha256": "716128a44d513b84b97fa20b8845661f41489a7fd4217288127b393c37e3ca2d"
+  },
+  {
+    "source": "results/final_v2/summaries/average_logit_fusion_validation_summary.csv",
+    "published": "results/final_v2/summaries/average_logit_fusion_validation_summary.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "0d726a0e116b1643c942a78d25fa9df4087cf2565f7ea3e402b683e35594957a",
+    "published_sha256": "061847d42a9014be66537ab9df45a3087c24d1ba96677fe04491ef3882550227"
+  },
+  {
+    "source": "results/final_v2/summaries/learnable_weighted_logit_fusion_validation_summary.csv",
+    "published": "results/final_v2/summaries/learnable_weighted_logit_fusion_validation_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "7b6f930dec12e8c05b4cc96503c7826e414bc2376d9f45c7cfdafbb7c1d26c59",
+    "published_sha256": "7b6f930dec12e8c05b4cc96503c7826e414bc2376d9f45c7cfdafbb7c1d26c59"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscation_test_term_frequency.csv",
+    "published": "results/final_v2/summaries/text_obfuscation_test_term_frequency.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "ad4633499e27e39d09c9bffcd59810a4680ad4d9900d00b6ac3bbfd04e87aaaf",
+    "published_sha256": "ad4633499e27e39d09c9bffcd59810a4680ad4d9900d00b6ac3bbfd04e87aaaf"
+  },
+  {
+    "source": "results/final_v2/summaries/raw_concatenation_fusion_validation_summary.csv",
+    "published": "results/final_v2/summaries/raw_concatenation_fusion_validation_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "bdb1cb10dd342de871e7d09aeaecd22edbd90758af394f081e42cdf9e92a8ddc",
+    "published_sha256": "bdb1cb10dd342de871e7d09aeaecd22edbd90758af394f081e42cdf9e92a8ddc"
+  },
+  {
+    "source": "results/final_v2/summaries/final_clean_validation_model_comparison.csv",
+    "published": "results/final_v2/summaries/final_clean_validation_model_comparison.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "ef0bc429e9c978a9aad6d3974bc4fd79998dd0868058a8fed5d124466e4ea74a",
+    "published_sha256": "ef0bc429e9c978a9aad6d3974bc4fd79998dd0868058a8fed5d124466e4ea74a"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscation_approved_compound_forms.csv",
+    "published": "results/final_v2/summaries/text_obfuscation_approved_compound_forms.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "f8e6893908778c6f71f96b1f7269c924ed538459f7b49daabda5d4f0441e4f14",
+    "published_sha256": "f8e6893908778c6f71f96b1f7269c924ed538459f7b49daabda5d4f0441e4f14"
+  },
+  {
+    "source": "results/final_v2/summaries/learnable_weighted_logit_fusion_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/learnable_weighted_logit_fusion_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "a58279c6564ea0991c295b519ff5bc75a500ae9cb29d1298799aeef04346a598",
+    "published_sha256": "a58279c6564ea0991c295b519ff5bc75a500ae9cb29d1298799aeef04346a598"
+  },
+  {
+    "source": "results/final_v2/summaries/projection_fusion_validation_aggregate.csv",
+    "published": "results/final_v2/summaries/projection_fusion_validation_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "320b6bd712712a53cc5c69f3461e2916ee2ba38970d81b2e19f65fbd3f85ea80",
+    "published_sha256": "320b6bd712712a53cc5c69f3461e2916ee2ba38970d81b2e19f65fbd3f85ea80"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscation_development_match_summary.csv",
+    "published": "results/final_v2/summaries/text_obfuscation_development_match_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "88d3aab2c880c999ca122b940d967f348678683820ba89629772bd3bdf685f1e",
+    "published_sha256": "88d3aab2c880c999ca122b940d967f348678683820ba89629772bd3bdf685f1e"
+  },
+  {
+    "source": "results/final_v2/summaries/joint_robustness_aggregate.csv",
+    "published": "results/final_v2/summaries/joint_robustness_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "26b73f34673a15ee78b033cebe77204976f09b6f7ce7cb2c4950fe8dd9a59ce4",
+    "published_sha256": "26b73f34673a15ee78b033cebe77204976f09b6f7ce7cb2c4950fe8dd9a59ce4"
+  },
+  {
+    "source": "results/final_v2/summaries/final_training_input_audit.csv",
+    "published": "results/final_v2/summaries/final_training_input_audit.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "34aba7afa4d761c442fba62fdd5f31b4a4380655417d2e33bd4a9c475edc6532",
+    "published_sha256": "34aba7afa4d761c442fba62fdd5f31b4a4380655417d2e33bd4a9c475edc6532"
+  },
+  {
+    "source": "results/final_v2/summaries/split_summary.csv",
+    "published": "results/final_v2/summaries/split_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "b1ed32dc3fb83a8c13b50b0a4bba1ad6f8496826866bc374b6d5cd4fae1bfe2d",
+    "published_sha256": "b1ed32dc3fb83a8c13b50b0a4bba1ad6f8496826866bc374b6d5cd4fae1bfe2d"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscation_test_coverage.csv",
+    "published": "results/final_v2/summaries/text_obfuscation_test_coverage.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "d30f94923bf4d86522cee0d24d5ded234857ac5e80897be632b3426c629e76be",
+    "published_sha256": "d30f94923bf4d86522cee0d24d5ded234857ac5e80897be632b3426c629e76be"
+  },
+  {
+    "source": "results/final_v2/summaries/clean_test_model_aggregate.csv",
+    "published": "results/final_v2/summaries/clean_test_model_aggregate.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "a2a169a4fc3cfaeaf18da112b3efbeee8fdff7d66a9841b54894429fc651584e",
+    "published_sha256": "a2a169a4fc3cfaeaf18da112b3efbeee8fdff7d66a9841b54894429fc651584e"
+  },
+  {
+    "source": "results/final_v2/summaries/paper_ready_main_results.csv",
+    "published": "results/final_v2/summaries/paper_ready_main_results.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "4f08b662f7f970197e77a8d05459ed1bf19e6257558ff42d318d5ad9c758bd25",
+    "published_sha256": "4f08b662f7f970197e77a8d05459ed1bf19e6257558ff42d318d5ad9c758bd25"
+  },
+  {
+    "source": "results/final_v2/summaries/clean_embedding_audit.csv",
+    "published": "results/final_v2/summaries/clean_embedding_audit.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "99165c27d8463f20259f739d00479895e17ded98729fe05bb9c1078a58ae092a",
+    "published_sha256": "976acb70b6804499b5c821e2b1303d81dc74d438172f88e91e2d62feee08984f"
+  },
+  {
+    "source": "results/final_v2/summaries/robustness_per_seed_summary.csv",
+    "published": "results/final_v2/summaries/robustness_per_seed_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "6051411c5c332d99a786be936230121195170bca9bd31b7322e686ba09374b15",
+    "published_sha256": "6051411c5c332d99a786be936230121195170bca9bd31b7322e686ba09374b15"
+  },
+  {
+    "source": "results/final_v2/summaries/paper_ready_research_question_summary.csv",
+    "published": "results/final_v2/summaries/paper_ready_research_question_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "4aa67b45264cf0e027e9f870ed8f1603e0b1cf33cf20a0eb7aea6440bb1853bc",
+    "published_sha256": "4aa67b45264cf0e027e9f870ed8f1603e0b1cf33cf20a0eb7aea6440bb1853bc"
+  },
+  {
+    "source": "results/final_v2/summaries/split_label_distribution.csv",
+    "published": "results/final_v2/summaries/split_label_distribution.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "adc6b7410b7ac398579de5f4748a0917ffe37601c3d8c53f2ee12603248479a6",
+    "published_sha256": "adc6b7410b7ac398579de5f4748a0917ffe37601c3d8c53f2ee12603248479a6"
+  },
+  {
+    "source": "results/final_v2/summaries/split_platform_label_distribution.csv",
+    "published": "results/final_v2/summaries/split_platform_label_distribution.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "124c27b90cdabc792bbc1097809e68aa692a129253e8e819a99586031b3ae5e5",
+    "published_sha256": "124c27b90cdabc792bbc1097809e68aa692a129253e8e819a99586031b3ae5e5"
+  },
+  {
+    "source": "results/final_v2/summaries/most_damaging_single_corruption.csv",
+    "published": "results/final_v2/summaries/most_damaging_single_corruption.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "4079ba406955a34c218009c8813eaf737ca890b979b3bb8d1c7e346605d4a1a5",
+    "published_sha256": "4079ba406955a34c218009c8813eaf737ca890b979b3bb8d1c7e346605d4a1a5"
+  },
+  {
+    "source": "results/final_v2/summaries/robustness_condition_input_audit.csv",
+    "published": "results/final_v2/summaries/robustness_condition_input_audit.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "598df4031125df5f1b81175f2f224a07005642e29afe406aefb33bd17fd47056",
+    "published_sha256": "598df4031125df5f1b81175f2f224a07005642e29afe406aefb33bd17fd47056"
+  },
+  {
+    "source": "results/final_v2/summaries/clean_test_per_seed_summary.csv",
+    "published": "results/final_v2/summaries/clean_test_per_seed_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "882a26ee8776c9f87790cfbf6739c52583f316ee5c4505893185f032dc72f196",
+    "published_sha256": "882a26ee8776c9f87790cfbf6739c52583f316ee5c4505893185f032dc72f196"
+  },
+  {
+    "source": "results/final_v2/summaries/contrastive_similarity_fusion_validation_summary.csv",
+    "published": "results/final_v2/summaries/contrastive_similarity_fusion_validation_summary.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "9b4c7d5cb20c6eae694b5a3786cf8773e71a9092a7a64c145a53882acebbb109",
+    "published_sha256": "9b4c7d5cb20c6eae694b5a3786cf8773e71a9092a7a64c145a53882acebbb109"
+  },
+  {
+    "source": "results/final_v2/summaries/text_obfuscation_final_lexicon_audit.csv",
+    "published": "results/final_v2/summaries/text_obfuscation_final_lexicon_audit.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "f61fa24c89819ee1c45571659cc983384391a3b3d2a746352efdb2526b291501",
+    "published_sha256": "f61fa24c89819ee1c45571659cc983384391a3b3d2a746352efdb2526b291501"
+  },
+  {
+    "source": "results/final_v2/summaries/image_only_mlp_training_summary.csv",
+    "published": "results/final_v2/summaries/image_only_mlp_training_summary.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "b842600be81ab831e3512a6d369d1ae9370ecf6bd1efbe0a3cde4d6da989fee4",
+    "published_sha256": "4ea7968b47869b7897b10f7ae6dc64769f22ce9830af41c837672a9ac64497db"
+  },
+  {
+    "source": "results/final_v2/summaries/final_experiment_output_manifest.csv",
+    "published": "results/final_v2/summaries/final_experiment_output_manifest.csv",
+    "transformation": "CSV projection dropping []; relative paths; numeric strings preserved",
+    "source_sha256": "1a1c6a3d14b8fe4cbe656af702706e09186b5f052f4b62c277b6388a27299e59",
+    "published_sha256": "16afc0b4e2c3cb22666e81c9aa957786df24469e448bc982b9382af101606409"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_text_only_mlp_seed_82.csv",
+    "published": "results/final_v2/predictions/validation_text_only_mlp_seed_82.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "0a8f9882ee2c91ebdc48977b56341b7e79fd6d07b086243d8144618d52c2205b",
+    "published_sha256": "540c7b50fb678d07515910c40e1a2d9ae9d8f24435af79b607fbf760e7ab6532"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_average_logit_fusion_seed_52.csv",
+    "published": "results/final_v2/predictions/validation_average_logit_fusion_seed_52.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "569a30e967f33d6f5eabf8d3cfbb093661953c41fe65087097fe43ebd7d4e975",
+    "published_sha256": "96517eb7ab6a30e2c5799fed14c3ae6422966a34a630a4684203a8d94d8f4a40"
+  },
+  {
+    "source": "results/final_v2/predictions/clean_test_all_model_predictions.csv",
+    "published": "results/final_v2/predictions/clean_test_all_model_predictions.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "e21c9ba9f7d05a32a098fed68f8b96c3725ca26e4384a2c2fe0b1b52f3988b9d",
+    "published_sha256": "90d848b28de9e5cd4e4e38cb4bc89fa7229725fa4d16a0f51d0325f22e6b94e2"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_text_only_mlp_seed_42.csv",
+    "published": "results/final_v2/predictions/validation_text_only_mlp_seed_42.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "4123c3edb8451e47a18698fdb7854d2dd681f002ee8bc5099df3c7b3703b5090",
+    "published_sha256": "6a2072537d6f1758cbe6c9a8da16f7ebbdaf5e4f0ceb0dea6c9ffbbf7e1e481e"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_average_logit_fusion_seed_82.csv",
+    "published": "results/final_v2/predictions/validation_average_logit_fusion_seed_82.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "3771ac530e779c649fa6a95c6df292e022a9a9fca7e639ef090b48efa29f9914",
+    "published_sha256": "5af358b4f3a106fe10d52a220ef46cbb7e6de7fe4e90848defe32aaa07006f51"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_text_only_mlp_seed_52.csv",
+    "published": "results/final_v2/predictions/validation_text_only_mlp_seed_52.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "aaf9558692c18e525060521f4e25783dd7c40845b81e54afae83b8c99065a1b1",
+    "published_sha256": "448a7c8a36de531c2f200accef74b9787ed400928a9d56dd57d94d2c0a561c37"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_average_logit_fusion_seed_42.csv",
+    "published": "results/final_v2/predictions/validation_average_logit_fusion_seed_42.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "ca701e84668c314c3aec79ce8ed7b567842a751a8991d8670f7633988a8e8aa3",
+    "published_sha256": "9822df29b756be896f9a2572c0241866c21808c3932b7bae5e36b13af977405a"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_image_only_mlp_seed_82.csv",
+    "published": "results/final_v2/predictions/validation_image_only_mlp_seed_82.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "d3f3372e13dee157357c1ba0242cb4104c967dec8cb42de0d231825ae3c5ad44",
+    "published_sha256": "f9e5bbce1b497c15ca424cb82095741da559e992359e8ec125efba02fd50aa1f"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_image_only_mlp_seed_42.csv",
+    "published": "results/final_v2/predictions/validation_image_only_mlp_seed_42.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "ed33b193e4eee4393936c103c2057b4e447a95f8e748fb4b3f356a5a4dc0932d",
+    "published_sha256": "738e8f2885e5451dd496e9f5f30aa993baa7f75b2db067ea94e57dd8cb8f2309"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_image_only_mlp_seed_52.csv",
+    "published": "results/final_v2/predictions/validation_image_only_mlp_seed_52.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "3016a4a1f7d4eb493e0d1ab5194e29c0710aba9f8d8b562a1bc695118c0a24dc",
+    "published_sha256": "e8b502c2c079c178e084389ff777f25909ef5a7130066e11469c435495fd23f7"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_image_only_mlp_seed_62.csv",
+    "published": "results/final_v2/predictions/validation_image_only_mlp_seed_62.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "ecf86d10abc3b7a26eea63fde506652622daffe83f783361e19aaefe1e8dec95",
+    "published_sha256": "54ef3760055497ce3433e9908e7bc68b0f7dd1c349196a7f4ed9cc76eee422b7"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_image_only_mlp_seed_72.csv",
+    "published": "results/final_v2/predictions/validation_image_only_mlp_seed_72.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "134219c778a847b6962cdaca3432d9c8af7d3c3a0592284d620eda20dc8b1cd8",
+    "published_sha256": "f9343d296bb0fd4607f668956f12908bea55783964d0b7c39075356836dfa932"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_average_logit_fusion_seed_72.csv",
+    "published": "results/final_v2/predictions/validation_average_logit_fusion_seed_72.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "a3512738acfceb70d788aaa6390bf436bcec1402fe20fac2cd86d7bcfdba2651",
+    "published_sha256": "efa4bc1db9af607dc7808a401ca7d06fe23f6a15eb0e2d056c9007bea0c6cb08"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_text_only_mlp_seed_62.csv",
+    "published": "results/final_v2/predictions/validation_text_only_mlp_seed_62.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "8818919448e3591aa1f36e48a6f8fac6b04ed88ec53dc2153a5ef61e4a11a21b",
+    "published_sha256": "224f066dcd42d8bfe4e2fad66aa00ba4fab0d52f39449e98d3247443f24f1de3"
+  },
+  {
+    "source": "results/final_v2/predictions/robustness_all_predictions.csv",
+    "published": "results/final_v2/predictions/robustness_all_predictions.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "c1c49866d2e8ed018e8eeb0dbedae2e4dc67ead7d5977ea8473ac9ba449a5c20",
+    "published_sha256": "eef750d6334d0776053a81a705b17b0e1bd53bdcd511bafd77fa9d0eb6e7c8a3"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_text_only_mlp_seed_72.csv",
+    "published": "results/final_v2/predictions/validation_text_only_mlp_seed_72.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "909e804eda1472a7c0f82ec7b0d4e2afa648858e61c561c2ba99514be82ac83d",
+    "published_sha256": "c4c4f4021bdc408d4f5a0ee54c38431204a27f70395b5c51c7ac464fa2d1db28"
+  },
+  {
+    "source": "results/final_v2/predictions/validation_average_logit_fusion_seed_62.csv",
+    "published": "results/final_v2/predictions/validation_average_logit_fusion_seed_62.csv.gz",
+    "transformation": "lossless gzip (decompressed bytes equal source)",
+    "source_sha256": "c1f703c5f36a02256bf1dad65e8e23b81fe0e02fb6bb5784c73237f1cc050ce4",
+    "published_sha256": "a3f4ab4195dc4e4332ec498b1aa7d7c16f122eff596b56fd671980a28d37d210"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_gaussian_blur_r2.csv",
+    "published": "perturbations/final_v2/manifests/image/test_gaussian_blur_r2.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "772b31166005de009698db9a3cf28cfd3cd2d916cd3bce735d7ff8ce9349f2f6",
+    "published_sha256": "772b31166005de009698db9a3cf28cfd3cd2d916cd3bce735d7ff8ce9349f2f6"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_pixelation_p50.csv",
+    "published": "perturbations/final_v2/manifests/image/test_pixelation_p50.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "20d75e59607ddf5e636b519cb0b3a2722ac447a864443d3ab89e1b97ceb3b79a",
+    "published_sha256": "20d75e59607ddf5e636b519cb0b3a2722ac447a864443d3ab89e1b97ceb3b79a"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_all_image_corruptions.csv",
+    "published": "perturbations/final_v2/manifests/image/test_all_image_corruptions.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "b4930668587cb93c782f5a27112493ce20e56bcb9e4d16f23d0bfc268b9d90ab",
+    "published_sha256": "b4930668587cb93c782f5a27112493ce20e56bcb9e4d16f23d0bfc268b9d90ab"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_gaussian_blur_r5.csv",
+    "published": "perturbations/final_v2/manifests/image/test_gaussian_blur_r5.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "6fff99c8494a215a447378226a255ce2bb667cc7a59459df680c144d4ae9e8f6",
+    "published_sha256": "6fff99c8494a215a447378226a255ce2bb667cc7a59459df680c144d4ae9e8f6"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_blur_r5_pixelation_p12_5.csv",
+    "published": "perturbations/final_v2/manifests/image/test_blur_r5_pixelation_p12_5.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "da2ba869ea01fbdee4fe13dad34ef46d8f5c959c15bf87377bf70e39de2edef6",
+    "published_sha256": "da2ba869ea01fbdee4fe13dad34ef46d8f5c959c15bf87377bf70e39de2edef6"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_pixelation_p25.csv",
+    "published": "perturbations/final_v2/manifests/image/test_pixelation_p25.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "95379bf8caf051761f6337b7696efdd3f194052c806ceca31b44b5a42c5521b3",
+    "published_sha256": "95379bf8caf051761f6337b7696efdd3f194052c806ceca31b44b5a42c5521b3"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/image/test_pixelation_p12_5.csv",
+    "published": "perturbations/final_v2/manifests/image/test_pixelation_p12_5.csv",
+    "transformation": "byte-for-byte copy",
+    "source_sha256": "14fc418ded18d4c5d21d223ba23b870ba745f5edd969691b29371b3421ba10c8",
+    "published_sha256": "14fc418ded18d4c5d21d223ba23b870ba745f5edd969691b29371b3421ba10c8"
+  },
+  {
+    "source": "perturbations/final_v2/manifests/text/test_text_obfuscated_fullchar_period.csv",
+    "published": "perturbations/final_v2/manifests/text/test_text_obfuscated_fullchar_period.csv",
+    "transformation": "CSV projection dropping ['original_caption', 'obfuscated_caption', 'matches_json']; relative paths; numeric strings preserved",
+    "source_sha256": "2be0a3c536eabfbad55d138b1043f73b7b90e395e31cf3b5a40d8438b1f8aa57",
+    "published_sha256": "755ee3047336b8a8b959ab3634f6398ce160856594ea0e95c45ab0976fe6d2d5"
+  },
+  {
+    "source": "models/final_v2/average_logit_fusion_seed_52.json",
+    "published": "models/final_v2/average_logit_fusion_seed_52.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "11e14a85602bafe18a5ebad5b772a727cc6666d641ff2fcb1fae1d6860910557",
+    "published_sha256": "3ba9801e50e35a905e33ccbb6383b7b6061efd0bf89c9df27ac645f12da57a30"
+  },
+  {
+    "source": "models/final_v2/average_logit_fusion_seed_72.json",
+    "published": "models/final_v2/average_logit_fusion_seed_72.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "57e9ec5eefe41f5b1745284888571abfec78ea174bc3ee79082e43160320f55d",
+    "published_sha256": "03a497d4a6ae65f8ab150a5bb184a8341ea74d8fad0158624635bad9dd96c298"
+  },
+  {
+    "source": "models/final_v2/average_logit_fusion_seed_62.json",
+    "published": "models/final_v2/average_logit_fusion_seed_62.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "0d061cac00816a80e05f4695960423f8c763e02410c3888c729b56afaf9a95df",
+    "published_sha256": "e2328d09b0903fe7077b7b9f9c7d8c9503d20f7cbb9aad91f7983560c1192418"
+  },
+  {
+    "source": "models/final_v2/average_logit_fusion_seed_42.json",
+    "published": "models/final_v2/average_logit_fusion_seed_42.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "aed0cfcfc117bc00aa6abad41fe3a3452dcc1321f00bd593d25897c291f0b49c",
+    "published_sha256": "ec1fb5fd74481ebfacdbc06c8bd3207860a76467aeba9199b6a9c24f8d6e0e18"
+  },
+  {
+    "source": "models/final_v2/average_logit_fusion_seed_82.json",
+    "published": "models/final_v2/average_logit_fusion_seed_82.json",
+    "transformation": "relative paths; JSON NaN -> null; formatting",
+    "source_sha256": "ec334f0c6a340377f27243593a329f29b41e323978f59bf7ba678e0205a61162",
+    "published_sha256": "772815b33bac6f0592afc512897f6cb1bc4e28d85ef22415dbd55b6504ff22aa"
+  }
+]

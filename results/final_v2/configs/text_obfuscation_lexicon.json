@@ -1,0 +1,54 @@
+{
+  "lexicon_version": "final_v2",
+  "selection_source": "train_and_validation_only",
+  "terms": [
+    "slot",
+    "gacor",
+    "maxwin",
+    "jackpot",
+    "scatter",
+    "mahjong",
+    "pragmatic",
+    "togel",
+    "casino",
+    "freebet",
+    "deposit",
+    "depo",
+    "withdraw",
+    "bonus",
+    "rtp",
+    "bet",
+    "jp"
+  ],
+  "number_of_terms": 17,
+  "core_terms": [
+    "slot",
+    "gacor",
+    "maxwin",
+    "scatter",
+    "mahjong",
+    "pragmatic",
+    "togel",
+    "casino",
+    "freebet",
+    "deposit",
+    "depo",
+    "withdraw",
+    "bonus",
+    "rtp",
+    "bet",
+    "jp"
+  ],
+  "ambiguous_terms": [
+    "jackpot"
+  ],
+  "excluded_terms": {
+    "judi": "predominantly negative/contextual",
+    "judol": "predominantly negative/contextual",
+    "sportsbook": "insufficient development support",
+    "bigwin": "development support below 20",
+    "betting": "insufficient development support",
+    "buybonus": "insufficient development support"
+  },
+  "lexicon_status": "locked"
+}

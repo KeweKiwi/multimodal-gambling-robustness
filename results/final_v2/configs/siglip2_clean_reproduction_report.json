@@ -1,0 +1,12 @@
+{
+  "encoder": "google/siglip2-so400m-patch14-384",
+  "encoder_status": "frozen",
+  "device": "mps",
+  "model_dtype": "torch.float16",
+  "sample_count": 6,
+  "embedding_dimension": 1152,
+  "mean_reproduced_l2_norm": 1.0,
+  "mean_cosine_vs_saved_clean": 1.0,
+  "minimum_cosine_vs_saved_clean": 0.9999999403953552,
+  "validation_passed": true
+}

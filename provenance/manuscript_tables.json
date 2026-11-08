@@ -1,0 +1,127 @@
+{
+  "source": "Manual numeric transcription of user-selected PDF, visually checked Tables 3-5; all values percent except SD/drop in percentage points. These are comparison targets, not generated measurements.",
+  "table_3": {
+    "learnable_weighted_logit_fusion": {
+      "mean_test_precision": 97.6,
+      "mean_test_recall": 95.06,
+      "mean_test_f1": 96.29,
+      "std_test_f1": 0.37
+    },
+    "average_logit_fusion": {
+      "mean_test_precision": 97.53,
+      "mean_test_recall": 95.06,
+      "mean_test_f1": 96.26,
+      "std_test_f1": 0.5
+    },
+    "raw_concatenation_fusion": {
+      "mean_test_precision": 97.86,
+      "mean_test_recall": 94.57,
+      "mean_test_f1": 96.19,
+      "std_test_f1": 0.08
+    },
+    "projection_fusion": {
+      "mean_test_precision": 98.28,
+      "mean_test_recall": 93.66,
+      "mean_test_f1": 95.91,
+      "std_test_f1": 0.34
+    },
+    "text_only_mlp": {
+      "mean_test_precision": 95.82,
+      "mean_test_recall": 95.12,
+      "mean_test_f1": 95.47,
+      "std_test_f1": 0.25
+    },
+    "contrastive_similarity_fusion": {
+      "mean_test_precision": 98.15,
+      "mean_test_recall": 92.87,
+      "mean_test_f1": 95.43,
+      "std_test_f1": 0.22
+    },
+    "image_only_mlp": {
+      "mean_test_precision": 97.44,
+      "mean_test_recall": 90.55,
+      "mean_test_f1": 93.87,
+      "std_test_f1": 0.23
+    }
+  },
+  "table_4": {
+    "clean": {
+      "learnable_weighted_logit_fusion": 96.29,
+      "raw_concatenation_fusion": 96.19,
+      "average_logit_fusion": 96.26
+    },
+    "text_obfuscated": {
+      "learnable_weighted_logit_fusion": 95.39,
+      "raw_concatenation_fusion": 95.98,
+      "average_logit_fusion": 95.46
+    },
+    "gaussian_blur_r2": {
+      "learnable_weighted_logit_fusion": 95.98,
+      "raw_concatenation_fusion": 96.43,
+      "average_logit_fusion": 96.03
+    },
+    "gaussian_blur_r5": {
+      "learnable_weighted_logit_fusion": 95.8,
+      "raw_concatenation_fusion": 95.59,
+      "average_logit_fusion": 95.71
+    },
+    "pixelation_p50": {
+      "learnable_weighted_logit_fusion": 96.11,
+      "raw_concatenation_fusion": 96.22,
+      "average_logit_fusion": 96.2
+    },
+    "pixelation_p25": {
+      "learnable_weighted_logit_fusion": 96.16,
+      "raw_concatenation_fusion": 96.41,
+      "average_logit_fusion": 96.13
+    },
+    "pixelation_p12_5": {
+      "learnable_weighted_logit_fusion": 95.57,
+      "raw_concatenation_fusion": 95.62,
+      "average_logit_fusion": 95.69
+    },
+    "blur_r5_pixelation_p12_5": {
+      "learnable_weighted_logit_fusion": 95.6,
+      "raw_concatenation_fusion": 94.66,
+      "average_logit_fusion": 95.47
+    },
+    "joint_j1_text_obfuscated_blur_r5": {
+      "learnable_weighted_logit_fusion": 94.82,
+      "raw_concatenation_fusion": 94.98,
+      "average_logit_fusion": 94.89
+    },
+    "joint_j2_text_obfuscated_pixelation_p12_5": {
+      "learnable_weighted_logit_fusion": 94.65,
+      "raw_concatenation_fusion": 95.0,
+      "average_logit_fusion": 94.84
+    },
+    "joint_j3_text_obfuscated_blur_r5_pixelation_p12_5": {
+      "learnable_weighted_logit_fusion": 94.62,
+      "raw_concatenation_fusion": 94.57,
+      "average_logit_fusion": 94.53
+    }
+  },
+  "table_5": {
+    "learnable_weighted_logit_fusion": {
+      "clean_f1": 96.29,
+      "mean_joint_f1": 94.7,
+      "worst_joint_f1": 94.62,
+      "worst_joint_drop": 1.67,
+      "worst_joint_relative_drop_pct": 1.74
+    },
+    "raw_concatenation_fusion": {
+      "clean_f1": 96.19,
+      "mean_joint_f1": 94.85,
+      "worst_joint_f1": 94.57,
+      "worst_joint_drop": 1.61,
+      "worst_joint_relative_drop_pct": 1.68
+    },
+    "average_logit_fusion": {
+      "clean_f1": 96.26,
+      "mean_joint_f1": 94.75,
+      "worst_joint_f1": 94.53,
+      "worst_joint_drop": 1.73,
+      "worst_joint_relative_drop_pct": 1.8
+    }
+  }
+}

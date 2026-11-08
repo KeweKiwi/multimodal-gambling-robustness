@@ -1,0 +1,2 @@
+model_name,number_of_seeds,mean_best_epoch,mean_selected_threshold,std_selected_threshold,mean_validation_f1,std_validation_f1,minimum_validation_f1,maximum_validation_f1,mean_validation_pr_auc,mean_validation_brier_score
+image_only_mlp,5,10.0,0.538,0.014832396974191338,0.9497517129337727,0.001805971144694614,0.9483568075117371,0.9528301886792453,0.9886380755076958,0.036567448377763836

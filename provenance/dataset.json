@@ -1,0 +1,29 @@
+{
+  "repository": "0xRafie/indonesian-gambling-multimodal-dataset",
+  "revision": "93f00571002bf1bf0dfea67fef68db2a03f0f58a",
+  "metadata_file": "dataset.csv",
+  "metadata_sha256": "095c1ac2b6eb759022d5a3b7eb673c2a5da918f268b5a58504733c22a2f2a5c8",
+  "metadata_bytes": 2355996,
+  "remote_metadata_verified": true,
+  "original_split_sha256": {
+    "validation.csv": "cb5996967e5ed3106234cf863031378bedefc114b657d1c4a5ba4ef782be968d",
+    "split_manifest.csv": "767d106d78a12fa02860336ccaba3b2621fbf4640b02b01035cf3252c3422888",
+    "test.csv": "a4b77de7c21f080450c9650a8541662137d91a799c4e284db23f45af4157b871",
+    "train.csv": "fb07b4b0f8ae410364689a184dcf90b40471e84d610938e8dc008a277a22ad03"
+  },
+  "original_embedding_sha256": {
+    "embeddings/clean/train_multilingual_e5_large.npy": "16d2704ba50e6de8cb1887a530e0117cf219d88d59fb198755e22353b1fa5c13",
+    "embeddings/clean/validation_siglip2_so400m_patch14_384.npy": "44f22d67f15fa2d79e8af8e772792aca67e2f27dd7d187be09bae60c01aac860",
+    "embeddings/clean/train_siglip2_so400m_patch14_384.npy": "b619101e1deeeede11528197c39f201fa4be3229ea737bed827935e39d8229c4",
+    "embeddings/clean/test_siglip2_so400m_patch14_384.npy": "5c495a66b21f622023f2feb2c4d7b32072d21379e1ed080ac8a6d4b3fc3b5fd9",
+    "embeddings/clean/test_multilingual_e5_large.npy": "e24454c4f9aae90ffb55db1517cc48b767cf453f656d9ce8899e039a7ff8a001",
+    "embeddings/clean/validation_multilingual_e5_large.npy": "994b235740f26f2a603a22f74de16e9f46cdba43781e7fb24f62f5282a10829d",
+    "embeddings/final_v2/image/test_siglip2_blur_r5_pixelation_p12_5.npy": "ccec7daa77b48107116531967e376385ad23fc466497c41238c05f24e41c93a9",
+    "embeddings/final_v2/image/test_siglip2_gaussian_blur_r2.npy": "641f0dae65f8611b91219cc27b260a70c5add0cb775c082debcf78aeea9a1b81",
+    "embeddings/final_v2/image/test_siglip2_gaussian_blur_r5.npy": "218d85dae230af39afc80bc274f652c0711b9cc300a2246bbf6eae5305c236d3",
+    "embeddings/final_v2/image/test_siglip2_pixelation_p12_5.npy": "b227ca018b9faa3a8a29f18a2546d37a239ba52337b4e4d4fab7aea7753d86a1",
+    "embeddings/final_v2/image/test_siglip2_pixelation_p25.npy": "fbb0bada4000c246b9f5b2bb2bc24a160c7bdedae51a5fdd6f01135ccca3a2fe",
+    "embeddings/final_v2/image/test_siglip2_pixelation_p50.npy": "d286ada192de7be4660c6c4ae0c5165d731d37e712780ccc134300402deec4cb",
+    "embeddings/final_v2/text/test_text_obfuscated_fullchar_period_multilingual_e5_large.npy": "ef25e8165f61502f75b1e5baf5e16c5205bf992ed414965a53d6f4fc82a6cf9d"
+  }
+}

@@ -1,0 +1,7 @@
+embedding_name,split,modality,rows,dimensions,dtype,finite_values,mean_l2_norm,min_l2_norm,max_l2_norm,file_size_mb,sha256,file_path
+train_text,train,text,3524,1024,float32,True,1.0,0.9999999403953552,1.0000001192092896,13.77,16d2704ba50e6de8cb1887a530e0117cf219d88d59fb198755e22353b1fa5c13,embeddings/clean/train_multilingual_e5_large.npy
+validation_text,validation,text,753,1024,float32,True,1.0,0.9999999403953552,1.0000001192092896,2.94,994b235740f26f2a603a22f74de16e9f46cdba43781e7fb24f62f5282a10829d,embeddings/clean/validation_multilingual_e5_large.npy
+test_text,test,text,751,1024,float32,True,1.0,0.9999999403953552,1.0000001192092896,2.93,e24454c4f9aae90ffb55db1517cc48b767cf453f656d9ce8899e039a7ff8a001,embeddings/clean/test_multilingual_e5_large.npy
+train_image,train,image,3524,1152,float32,True,1.0000066757202148,0.9994502663612366,1.0005340576171875,15.49,b619101e1deeeede11528197c39f201fa4be3229ea737bed827935e39d8229c4,embeddings/clean/train_siglip2_so400m_patch14_384.npy
+validation_image,validation,image,753,1152,float32,True,1.000005841255188,0.9995017051696777,1.0004676580429077,3.31,44f22d67f15fa2d79e8af8e772792aca67e2f27dd7d187be09bae60c01aac860,embeddings/clean/validation_siglip2_so400m_patch14_384.npy
+test_image,test,image,751,1152,float32,True,0.9999908804893494,0.9995104670524597,1.000508189201355,3.3,5c495a66b21f622023f2feb2c4d7b32072d21379e1ed080ac8a6d4b3fc3b5fd9,embeddings/clean/test_siglip2_so400m_patch14_384.npy

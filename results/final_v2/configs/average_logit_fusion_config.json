@@ -1,0 +1,11 @@
+{
+  "model_name": "average_logit_fusion",
+  "fusion_type": "late_logit_fusion",
+  "text_component": "text_only_mlp",
+  "image_component": "image_only_mlp",
+  "text_weight": 0.5,
+  "image_weight": 0.5,
+  "fusion_stage": "before_sigmoid",
+  "trainable_fusion_parameters": 0,
+  "threshold_source": "clean_validation_only"
+}

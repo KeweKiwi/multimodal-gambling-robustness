@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "scope": "all non-image research files captured before audit (including embeddings, models, notebooks, splits, metadata, results and ignore rules); raw image trees not baselined",
+  "files_hashed_and_unchanged": 293,
+  "git_status_unchanged": true,
+  "head_unchanged": true,
+  "tracking_unchanged": true,
+  "remotes_unchanged": true,
+  "publication_git_initialized": false,
+  "generated_validation_data_removed": true
+}

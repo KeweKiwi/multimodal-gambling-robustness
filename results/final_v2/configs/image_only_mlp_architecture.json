@@ -1,0 +1,11 @@
+{
+  "model_name": "image_only_mlp",
+  "image_encoder": "google/siglip2-so400m-patch14-384",
+  "encoder_status": "frozen",
+  "input_dimension": 1152,
+  "hidden_dimension": 256,
+  "dropout_rate": 0.3,
+  "output_dimension": 1,
+  "activation": "ReLU",
+  "loss": "BCEWithLogitsLoss"
+}

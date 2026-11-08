@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "required_files_ignored": 0,
+  "excluded_artifact_probes_ignored": 7,
+  "python_sources_parse": true,
+  "documentation_local_links_exist": true,
+  "publication_has_git_directory": false,
+  "runtime_work_directory_in_payload": false
+}

@@ -1,0 +1,7 @@
+array_name,rows,dimensions,expected_rows,row_count_valid
+X_train_text,3524,1024,3524,True
+X_validation_text,753,1024,753,True
+X_test_text,751,1024,751,True
+X_train_image,3524,1152,3524,True
+X_validation_image,753,1152,753,True
+X_test_image,751,1152,751,True

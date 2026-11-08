@@ -1,0 +1,7 @@
+split,label,count
+test,0.0,423
+test,1.0,328
+train,0.0,1984
+train,1.0,1540
+validation,0.0,426
+validation,1.0,327

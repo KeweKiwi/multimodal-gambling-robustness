@@ -1,0 +1,11 @@
+{
+  "experiment_version": "final_v2",
+  "seed": 42,
+  "project_root": ".",
+  "python_version": "3.14.4 (main, Apr  7 2026, 13:13:20) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "torch_version": "2.13.0",
+  "device": "mps",
+  "mps_available": true,
+  "cuda_available": false
+}

@@ -1,0 +1,7 @@
+input_text,expected_terms,actual_terms,obfuscated_text,passed
+DeportesEnTikTok,[],[],DeportesEnTikTok,True
+better performance,[],[],better performance,True
+alphabet,[],[],alphabet,True
+#slot88 gacor,"['slot', 'gacor']","['gacor', 'slot']",#s.l.o.t88 g.a.c.o.r,True
+main jackpot sekarang,['jackpot'],['jackpot'],main j.a.c.k.p.o.t sekarang,True
+freebet tersedia,['freebet'],['freebet'],f.r.e.e.b.e.t tersedia,True

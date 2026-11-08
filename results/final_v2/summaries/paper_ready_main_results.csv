@@ -1,0 +1,4 @@
+Model,Clean F1 (%),J1 F1 (%),J2 F1 (%),J3 F1 (%),Mean Joint F1 (%),Worst Joint F1 (%),Worst Relative Drop (%),Statistically Superior,Main Interpretation
+Learnable Weighted Fusion,96.289,94.82,94.65,94.616,94.695,94.616,1.738,No,Highest clean and worst-case joint F1
+Raw Concatenation Fusion,96.186,94.979,95.003,94.572,94.851,94.572,1.678,No,Highest mean joint F1 and smallest relative drop
+Average Logit Fusion,96.259,94.893,94.838,94.525,94.752,94.525,1.801,No,Simple fixed-weight baseline with competitive performance

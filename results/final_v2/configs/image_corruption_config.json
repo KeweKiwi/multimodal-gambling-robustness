@@ -1,0 +1,37 @@
+{
+  "version": "final_v2",
+  "selection_source": "validation_only",
+  "gaussian_blur": {
+    "mild_radius": 2,
+    "strong_radius": 5
+  },
+  "pixelation": {
+    "p50_scale": 0.5,
+    "p25_scale": 0.25,
+    "p12_5_scale": 0.125,
+    "downscale_resampling": "BOX",
+    "upscale_resampling": "NEAREST",
+    "primary_joint_scale": 0.125
+  },
+  "primary_joint_conditions": {
+    "J1": {
+      "text": "full_character_period_separator",
+      "image": "gaussian_blur_r5"
+    },
+    "J2": {
+      "text": "full_character_period_separator",
+      "image": "pixelation_p12_5"
+    },
+    "J3": {
+      "text": "full_character_period_separator",
+      "image": "blur_r5_then_pixelation_p12_5"
+    }
+  },
+  "compound_transform_order": [
+    "gaussian_blur_r5",
+    "pixelation_p12_5"
+  ],
+  "output_format": "PNG",
+  "test_used_for_severity_selection": false,
+  "severity_selection_reason": "Validation preview showed that pixelation scales 0.50 and 0.25 were too mild, while 0.125 visibly degraded fine details without removing the main semantic content."
+}

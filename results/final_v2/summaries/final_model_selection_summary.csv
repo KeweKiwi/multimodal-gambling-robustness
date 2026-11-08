@@ -1,0 +1,4 @@
+model_name,clean_f1,j1_f1,j2_f1,j3_f1,mean_joint_f1,worst_joint_f1,worst_joint_relative_drop_pct,clean_rank,robustness_rank,significantly_better_than_other_top_models,interpretation
+learnable_weighted_logit_fusion,0.9628931020640579,0.9481994545434379,0.9465030190509642,0.9461624562104918,0.9469549766016313,0.9461624562104918,1.7375392780052406,1,1,False,Primary descriptive model: highest clean and worst-case joint F1
+raw_concatenation_fusion,0.9618610197041157,0.9497875321461885,0.9500308540569449,0.9457212404575426,0.948513208886892,0.9457212404575426,1.6779741476100187,3,2,False,Robustness comparator: highest mean joint F1 and strongest TikTok performance
+average_logit_fusion,0.9625867816985213,0.9489347348330277,0.9483825766298237,0.9452537708768137,0.9475236941132218,0.9452537708768137,1.800669939714195,2,3,False,Simple non-trainable fusion baseline with competitive robustness

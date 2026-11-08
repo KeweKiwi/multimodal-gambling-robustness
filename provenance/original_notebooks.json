@@ -1,0 +1,20 @@
+[
+  {
+    "path": "notebooks/01_dataset_audit.ipynb",
+    "bytes": 15191717,
+    "sha256": "3c8baea716568fa94244331b2280ab3eae1d3eb36fe95529adf808af1b55647e",
+    "role": "selected shared audit/split/clean-embedding source; no pilot results published"
+  },
+  {
+    "path": "notebooks/01_dataset_audit_and_pilot.ipynb",
+    "bytes": 15191207,
+    "sha256": "c84d003eb3fe25cf86d35e71493bbd50fd902c8a3d389fb367b520fef9f9c7f4",
+    "role": "overlapping pilot notebook excluded"
+  },
+  {
+    "path": "notebooks/02_final_v2_full_pipeline.ipynb",
+    "bytes": 15344026,
+    "sha256": "598af397b77e9fc0c5a7773aa9ea0472ba1b841f50369cfec37968b4a815dc61",
+    "role": "authoritative FINAL V2 source"
+  }
+]

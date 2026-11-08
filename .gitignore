@@ -1,0 +1,26 @@
+# Local runtime data and generated artifacts; reference FINAL V2 predictions stay included.
+work/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+/image/
+/dataset.csv
+/embeddings/
+models/**/*.pt
+models/**/*.pth
+models/**/*.ckpt
+models/**/*.safetensors
+perturbations/**/images/
+*.log
+*.tmp

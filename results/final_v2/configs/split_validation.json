@@ -1,0 +1,11 @@
+{
+  "total_rows": 5028,
+  "train_rows": 3524,
+  "validation_rows": 753,
+  "test_rows": 751,
+  "cross_split_ids": 0,
+  "cross_split_leakage_groups": 0,
+  "missing_images": 0,
+  "split_manifest_sha256": "767d106d78a12fa02860336ccaba3b2621fbf4640b02b01035cf3252c3422888",
+  "checksum_matches": true
+}

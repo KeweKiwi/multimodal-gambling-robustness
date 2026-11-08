@@ -1,0 +1,12 @@
+condition,category,text_rows,text_dimensions,image_rows,image_dimensions,text_shape_valid,image_shape_valid,finite_values
+clean,clean,751,1024,751,1152,True,True,True
+text_obfuscated,text_only_perturbation,751,1024,751,1152,True,True,True
+gaussian_blur_r2,image_only_perturbation,751,1024,751,1152,True,True,True
+gaussian_blur_r5,image_only_perturbation,751,1024,751,1152,True,True,True
+pixelation_p50,image_only_perturbation,751,1024,751,1152,True,True,True
+pixelation_p25,image_only_perturbation,751,1024,751,1152,True,True,True
+pixelation_p12_5,image_only_perturbation,751,1024,751,1152,True,True,True
+blur_r5_pixelation_p12_5,compound_image_perturbation,751,1024,751,1152,True,True,True
+joint_j1_text_obfuscated_blur_r5,joint_perturbation,751,1024,751,1152,True,True,True
+joint_j2_text_obfuscated_pixelation_p12_5,joint_perturbation,751,1024,751,1152,True,True,True
+joint_j3_text_obfuscated_blur_r5_pixelation_p12_5,joint_perturbation,751,1024,751,1152,True,True,True

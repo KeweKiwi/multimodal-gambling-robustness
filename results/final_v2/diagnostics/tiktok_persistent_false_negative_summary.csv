@@ -1,0 +1,13 @@
+condition_short,model_name,persistent_fn_samples,missed_by_all_five_seeds,mean_probability
+Clean,raw_concatenation_fusion,12,10,0.21803307229643118
+Clean,average_logit_fusion,9,7,0.18757217631260692
+Clean,learnable_weighted_logit_fusion,8,8,0.17672792819452107
+J1,raw_concatenation_fusion,17,14,0.21011846344779025
+J1,learnable_weighted_logit_fusion,16,13,0.18059624351370643
+J1,average_logit_fusion,15,11,0.1737075870187218
+J2,learnable_weighted_logit_fusion,16,12,0.18798207630657024
+J2,average_logit_fusion,14,12,0.1715059982654985
+J2,raw_concatenation_fusion,14,14,0.17333062248804557
+J3,learnable_weighted_logit_fusion,14,12,0.16076995741625114
+J3,raw_concatenation_fusion,14,13,0.1650165781677823
+J3,average_logit_fusion,12,12,0.1417186198583212

@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "scope": "replay original grouping and 20-fold assignment against saved normalized captions and image hashes; no data rewriting",
+  "all_5028_ids_groups_folds_splits_match": true,
+  "exact_caption_groups_crossing_splits": 0,
+  "full_split_rehydration_checksums_match": 4
+}

@@ -1,0 +1,59 @@
+{
+  "scripts/run_final_v2.py": {
+    "source_notebook": "notebooks/02_final_v2_full_pipeline.ipynb",
+    "cells": "code cells through original cell 111; see source_cells.json",
+    "adaptations": [
+      "portable work/ root",
+      "IPython display import",
+      "outputs omitted"
+    ]
+  },
+  "scripts/extract_clean_embeddings.py": {
+    "source_notebook": "notebooks/01_dataset_audit.ipynb",
+    "cells": [
+      25,
+      26,
+      27,
+      28,
+      40,
+      43,
+      44,
+      45
+    ],
+    "adaptations": [
+      "portable work/ paths",
+      "split-loading adapter",
+      "backend selection; float32 CPU fallback",
+      "original clean extraction batch sizes retained"
+    ]
+  },
+  "scripts/recompute_bootstrap.py": {
+    "source_notebook": "notebooks/02_final_v2_full_pipeline.ipynb",
+    "cells": [
+      73
+    ],
+    "adaptations": [
+      "load saved predictions and test IDs",
+      "output work/bootstrap/",
+      "assert original table equality"
+    ]
+  },
+  "scripts/render_figures.py": {
+    "source_notebook": "notebooks/02_final_v2_full_pipeline.ipynb",
+    "cells": [
+      113,
+      115
+    ],
+    "adaptations": [
+      "portable reference input paths",
+      "outputs under work/",
+      "IPython display import"
+    ]
+  },
+  "scripts/prepare_data.py": {
+    "source": "new publication adapter using existing frozen IDs and original normalization function"
+  },
+  "scripts/verify_publication.py": {
+    "source": "new offline publication audit utility"
+  }
+}

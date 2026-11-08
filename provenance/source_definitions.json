@@ -1,0 +1,153 @@
+[
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "set_training_seed",
+    "original_cell": 36,
+    "source_sha256": "ca54959557c8651a8058c312195f1a03e6f21ac595b6e8ecccf22b0cfb1d1644"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "create_tensor_loader",
+    "original_cell": 36,
+    "source_sha256": "b34a83f6a609b5cdff1d8e6508dcb10f63b91a7adff44cc8a24fe315d2be8853"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "move_batch_to_device",
+    "original_cell": 36,
+    "source_sha256": "6c023edc30794aa3369648c15966fdd9f502c36f5d5673b8cacc935f3573ab50"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "count_trainable_parameters",
+    "original_cell": 36,
+    "source_sha256": "3b7fb5e91f590e62613bca6d025ed69fbc9292d8adbe21feb0dd83155431b9d5"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "train_binary_model",
+    "original_cell": 36,
+    "source_sha256": "e2d9e0fa237772f68652a9dc3bf5968a391ca7cf792889d17e13bcf4bdd74122"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "predict_binary_logits",
+    "original_cell": 36,
+    "source_sha256": "48bd80692dc0dd7bcfa334d2a78c0052ab2dbb56e9c75c428c35d64e9d69dbde"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "sigmoid_numpy",
+    "original_cell": 36,
+    "source_sha256": "0a0c5884d247ba7b733b12c69d7f5bc2a29e0cee8a400688e471be251da0e721"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "select_validation_threshold",
+    "original_cell": 36,
+    "source_sha256": "6722123804faf42b0b7385a5d7d969537d51088d291ccf13a966d9e7fc8e371a"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "calculate_binary_metrics",
+    "original_cell": 36,
+    "source_sha256": "9c8568ee28b53d0e859a77c8ff07cbca585be3f77c5784d7a571f5e5744fbff0"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "TextOnlyMLP",
+    "original_cell": 38,
+    "source_sha256": "f17449994fde521575e702b65aafb7355d08bf495d5a298814a15de0ad1d39b0"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "load_torch_checkpoint",
+    "original_cell": 38,
+    "source_sha256": "b13426fb896f822ffcf855d9cc625561a46e29084d0e6f4cfb7344f416c557bd"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "ImageOnlyMLP",
+    "original_cell": 41,
+    "source_sha256": "8c487e111a8555679cc623092dc0ba58a1b9f383b8460f3a45a22460dca5d992"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "LearnableWeightedLogitFusion",
+    "original_cell": 46,
+    "source_sha256": "d9a47f5f0ddea1c25d0003b262d055b8e728ab437fb17ba3a8c1ae6fb1573c31"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "load_component_model",
+    "original_cell": 46,
+    "source_sha256": "2795bb3d2bd1f331df1ca90b4c5cb3ead5042cd55cf78a16322484004b4dc954"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "get_component_logits",
+    "original_cell": 46,
+    "source_sha256": "73f5c70a39587be052487e7a568e1381afb0e0ee83c63417ec48a27296b01cba"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "RawConcatenationFusion",
+    "original_cell": 48,
+    "source_sha256": "0bfcc6d357a730dea26b14acdce10058835399b5860c05a8b06cbbe0d4e3c4fc"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "ProjectionFusion",
+    "original_cell": 50,
+    "source_sha256": "7247f9b56171af84b1e7c7b2dd7b5fbdd6848108a3126c08b86048d4b9436fac"
+  },
+  {
+    "file": "src/final_v2_core.py",
+    "definition": "ContrastiveSimilarityFusion",
+    "original_cell": 56,
+    "source_sha256": "2883d20171fa1d75c80cad1ec13fd055c8274a3048dfe1896de395f71e27029a"
+  },
+  {
+    "file": "src/perturbations.py",
+    "definition": "resolve_overlapping_matches",
+    "original_cell": 14,
+    "source_sha256": "f6d701a65659e0df2edccbb5a07f730f20db8bd0575313bd2d88b53e3d33265b"
+  },
+  {
+    "file": "src/perturbations.py",
+    "definition": "find_final_text_matches",
+    "original_cell": 14,
+    "source_sha256": "e6b3eb72b45551ac86de54e7b6d82c0ac39575c892d6fabc85cb3d34fa92f177"
+  },
+  {
+    "file": "src/perturbations.py",
+    "definition": "apply_full_character_period_obfuscation",
+    "original_cell": 14,
+    "source_sha256": "e12f7265c51c4f140d020e3a959db393ce9d432f5488380b0e78683d320adf7d"
+  },
+  {
+    "file": "src/perturbations.py",
+    "definition": "apply_gaussian_blur",
+    "original_cell": 19,
+    "source_sha256": "3662d7880db75d6e8831a43a888ad4e0d88466ceb7ac026f437ae6e43df61eb5"
+  },
+  {
+    "file": "src/perturbations.py",
+    "definition": "apply_pixelation",
+    "original_cell": 19,
+    "source_sha256": "80b0c7552faa1f1e9ca1938c72acfc1101cf65592a75acb4721683e77dbcd7fe"
+  },
+  {
+    "file": "src/perturbations.py",
+    "definition": "apply_blur_then_pixelation",
+    "original_cell": 19,
+    "source_sha256": "d4b5f3636b92fcf00cc90227fa140df0f26573a4c314693cd55d87b66aa4b672"
+  },
+  {
+    "file": "src/split_normalization.py",
+    "definition": "normalize_caption",
+    "source_notebook": "notebooks/01_dataset_audit.ipynb",
+    "original_cell": 7,
+    "source_sha256": "21a8f3169e6fedb53909dd93e62cef287ca6724d84decec96fe90d71cd5c364b"
+  }
+]
